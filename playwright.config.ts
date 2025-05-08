@@ -1,5 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
-
+import * as os from "node:os";
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -22,7 +22,30 @@ export default defineConfig({
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: 'html',
+ // reporter: 'html',
+ reporter: [["line"],
+ [
+ //add Alure report   
+     "allure-playwright",
+       {
+         resultsDir: "allure-results",
+         detail: true,
+         suiteTitle: true,
+         categories: [
+           {
+             name: "UI Test",
+             messageRegex: "bar",
+             traceRegex: "baz",
+          
+           },
+         ],
+         environmentInfo: {
+           os_platform: os.platform(),
+           os_release: os.release(),
+           os_version: os.version(),
+         },
+       } 
+]],
   timeout: 40_000,
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {

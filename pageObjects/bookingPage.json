@@ -10,5 +10,15 @@
         "heading":"//h3",
         "table": ".table",
         "chooseTheFlight_btn": "//tbody/tr[2]/td[1]/input[1]"
+        
+    },
+    "Purchase":
+    {
+        "flightNumber" : "//p[2]",
+        "name" : "#inputName",
+        "address": "#address",
+        "cardType": "#cardType",
+        "rememberMe": "#rememberMe",
+        "purchaseFlight_btn": "//input[@value='Purchase Flight']"
     }
 }
