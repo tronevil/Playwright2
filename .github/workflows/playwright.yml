@@ -16,11 +16,14 @@ jobs:
     - name: Install dependencies
       run: npm ci
     - name: Install Allureport
-      run: npm install -g allure-commandline --save-dev
+      run:  npm install -D allure-playwright
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
     - name: Run Playwright tests
       run: npx playwright test
+    - name: Generate Allureport
+      run:  allure generate allure-results -o allure-report --clean
+
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
