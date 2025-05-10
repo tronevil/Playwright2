@@ -20,5 +20,10 @@
         "cardType": "#cardType",
         "rememberMe": "#rememberMe",
         "purchaseFlight_btn": "//input[@value='Purchase Flight']"
+    },
+    "Confirmation":
+    {
+        "thankYou_text": "//h1",
+        "departure_date": "body > div.container > div > table > tbody > tr:nth-child(7) > td:nth-child(2)"
     }
 }

@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import {Reserve,Purchase} from '../pageObjects/bookingPage.json';
+import {Reserve,Purchase,Confirmation} from '../pageObjects/bookingPage.json';
 import { CheckoutDestination } from './main-flow';
 
 test.describe("Find the flight by selecting city and country",  () => {
@@ -51,6 +51,25 @@ test.describe("Find the flight by selecting city and country",  () => {
     await page.locator(Purchase.purchaseFlight_btn).click();
     //CHECK RESULT 
     await expect(page).toHaveURL('https://blazedemo.com/confirmation.php');
+  }),
+  test ('Scenario4: Verify Confirmation page', async ({page}) =>{
+    //select Destination and City
+    const pom = new CheckoutDestination(page);
+    pom.chooseDepartureDestinationCity();
+    //select Choose The Flight button
+    await page.locator(Reserve.chooseTheFlight_btn).click();
+
+    //input customer data
+    await page.locator(Purchase.name).fill('Tron Ho');
+    await page.locator(Purchase.address).fill('364 Cong Hoa');
+    await page.locator(Purchase.cardType).selectOption('Visa');
+    await page.locator(Purchase.rememberMe).check();
+    await page.locator(Purchase.purchaseFlight_btn).click();
+
+    //CHECK RESULT 
+    await expect(page).toHaveURL('https://blazedemo.com/confirmation.php');
+    await expect(page.locator(Confirmation.departure_date)).toContainText('Sat, 10 May 2025 05:16:16 +0000');
+    await expect(page.locator(Confirmation.thankYou_text)).toContainText('Thank you for your purchase today!');
   })
 });
 
