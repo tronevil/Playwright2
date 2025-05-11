@@ -31,31 +31,37 @@ jobs:
     name: Generate Allure Report
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - name: Get Allure history
-        uses: actions/checkout@v2
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: zulu
+          java-version: 17
+
+      - name: Run tests
+        run: ./gradlew clean test
+
+      - name: Load test report history
+        uses: actions/checkout@v3
         if: always()
         continue-on-error: true
         with:
           ref: main
           path: main
 
-      - name: Allure Report action from marketplace
-        uses: simple-elf/allure-report-action@master
+      - name: Build test report
+        uses: simple-elf/allure-report-action@v1.7
         if: always()
-        #id: allure-report
         with:
-          allure_results: allure-results
-          #gh_pages: gh-pages
-          #allure_report: allure-report
+          gh_pages: gh-pages
           allure_history: allure-history
-          keep_reports: 20
+          allure_results: build/allure-results
 
-      - name: Deploy report to Github Pages
+      - name: Publish test report
+        uses: peaceiris/actions-gh-pages@v3
         if: always()
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          PERSONAL_TOKEN: secrects.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
-          PUBLISH_BRANCH: main
-          PUBLISH_DIR: allure-history
+        with:
+          github_token: secrets.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
+          publish_branch: main
+          publish_dir: allure-history
