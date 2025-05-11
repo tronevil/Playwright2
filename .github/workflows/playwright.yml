@@ -63,5 +63,5 @@ jobs:
         if: always()
         with:
           github_token: secrets.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
-          publish_branch: main
+          publish_branch: gh-pages
           publish_dir: allure-history
