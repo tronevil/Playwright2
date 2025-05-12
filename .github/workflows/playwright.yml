@@ -17,16 +17,22 @@ jobs:
     - name: Install dependencies
       run: npm ci
     - run: npm run build --if-present
+
     - name: Install Allure report
-      run:  npm install -D allure-playwright
+      run:  npm install --save-dev @playwright/test allure-playwright
+
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
+
     - name: Run Playwright tests
       run: npx playwright test
+
     - name: Generate Allure result
       run: allure serve allure-results
+
     - name: Generate Allure report
       run: allure generate --single-file .\allure-results --clean
+
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
