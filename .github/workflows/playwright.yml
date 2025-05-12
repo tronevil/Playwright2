@@ -18,6 +18,9 @@ jobs:
       run: npm ci
     - run: npm run build --if-present
 
+    - name: Pull Git Repository
+      run: git clone https://github.com/tronevil/Playwright2.git
+
     - name: Install Allure report
       run:  npm install --save-dev @playwright/test allure-playwright
 
@@ -26,9 +29,6 @@ jobs:
 
     - name: Run Playwright tests
       run: npx playwright test
-
-    - name: Generate Allure result
-      run: allure serve allure-results
 
     - name: Generate Allure report
       run: allure generate --single-file .\allure-results --clean
@@ -47,6 +47,7 @@ jobs:
       with:
         ref: gh-pages
         path: gh-pages
+
     - name: Test marketplace action
       uses: simple-elf/allure-report-action@master
       if: always()
