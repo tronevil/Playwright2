@@ -23,7 +23,14 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
  // reporter: 'html',
- reporter: [["line"],
+ reporter: [["line"], [
+      "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
+      {
+        slackWebHookUrl :"https://hooks.slack.com/services/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",
+        channels: ["all-niteco"], // provide one or more Slack channels
+        sendResults: "always", // "always" , "on-failure", "off"
+      },
+    ],
  [
  //add Alure report   
      "allure-playwright",

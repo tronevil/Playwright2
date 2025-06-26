@@ -8,7 +8,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.11"
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^22.15.11",
+    "allure-playwright": "^3.3.0",
+    "playwright-slack-report": "^1.1.95"
   }
 }
