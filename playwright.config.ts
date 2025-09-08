@@ -26,9 +26,23 @@ export default defineConfig({
  reporter: [["line"], [
       "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
       {
-        slackWebHookUrl :"https://hooks.slack.com/services/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",
-        channels: ["all-niteco"], // provide one or more Slack channels
+        slackWebHookUrl :"https://hooks.slack.com/services/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",
+        channels: ["social"], // provide one or more Slack channels
         sendResults: "always", // "always" , "on-failure", "off"
+        meta:[
+          {
+            key:"Environment:",
+            value:"Local",
+          },
+          {
+            key: 'Branch: ',
+            value: 'main',
+          },
+          {
+            key: 'Commit: ',
+            value: '0ed1579a-3973-44ec-bef6-89092e507fff',
+          }
+        ]        
       },
     ],
  [

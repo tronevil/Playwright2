@@ -12,5 +12,8 @@
     "@types/node": "^22.15.11",
     "allure-playwright": "^3.3.0",
     "playwright-slack-report": "^1.1.95"
+  },
+  "dependencies": {
+    "mailosaur": "^8.8.1"
   }
 }
