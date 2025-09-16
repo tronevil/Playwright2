@@ -1,0 +1,409 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region "We value your privacy" [ref=e2]:
+    - generic [ref=e3]:
+      - button "Close" [ref=e4] [cursor=pointer]:
+        - img "Close" [ref=e5] [cursor=pointer]
+      - generic [ref=e6]:
+        - heading "We value your privacy" [level=1] [ref=e7]
+        - generic [ref=e8]:
+          - paragraph [ref=e10]: We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+          - generic [ref=e11]:
+            - button "Customize" [ref=e12] [cursor=pointer]
+            - button "Reject All" [ref=e13] [cursor=pointer]
+            - button "Accept All" [ref=e14] [cursor=pointer]
+  - generic [ref=e15]:
+    - banner [ref=e17]:
+      - generic [ref=e19]:
+        - link "Return home" [ref=e21] [cursor=pointer]:
+          - /url: /
+          - img [ref=e22] [cursor=pointer]
+        - navigation "Main navigation" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "Work" [ref=e33] [cursor=pointer]:
+                - /url: /our-work/
+            - listitem [ref=e34]:
+              - link "Services" [ref=e35] [cursor=pointer]:
+                - /url: /our-services/
+                - text: Services
+                - img [ref=e36] [cursor=pointer]
+            - listitem [ref=e38]:
+              - link "Platforms" [ref=e39] [cursor=pointer]:
+                - /url: /our-partners/optimizely/
+                - text: Platforms
+                - img [ref=e40] [cursor=pointer]
+            - listitem [ref=e42]:
+              - link "AI Innovation" [ref=e43] [cursor=pointer]:
+                - /url: /ai/
+            - listitem [ref=e44]:
+              - link "Articles" [ref=e45] [cursor=pointer]:
+                - /url: /articles/
+        - link "Contact us" [ref=e47] [cursor=pointer]:
+          - /url: /contact-us/
+    - table [ref=e48]:
+      - rowgroup [ref=e49]:
+        - row [ref=e50]:
+          - cell [ref=e51]:
+            - main [ref=e52]:
+              - generic [ref=e56]:
+                - generic [ref=e59]:
+                  - generic [ref=e61]:
+                    - generic [ref=e63]:
+                      - generic [ref=e65]:
+                        - generic [ref=e66]:
+                          - heading "Great solutions begin with a conversation" [level=1] [ref=e67]:
+                            - generic [ref=e68]: Great solutions
+                            - text: begin with a conversation
+                          - paragraph [ref=e69]
+                        - paragraph [ref=e71]: "Ready to turn your vision into a super high-performing experience? Let's discuss how we can deliver:"
+                      - generic [ref=e73]:
+                        - generic [ref=e74]:
+                          - img [ref=e76]
+                          - generic [ref=e79]: Lightning fast websites that increase customer conversion
+                        - generic [ref=e80]:
+                          - img [ref=e82]
+                          - generic [ref=e85]: Benefit from the experience of over 400 certified commerce & CMS experts
+                        - generic [ref=e86]:
+                          - img [ref=e88]
+                          - generic [ref=e91]: Data-driven decision making for measurable results
+                    - img "Optimizely Experimentation Web Platform Certificate" [ref=e99]
+                  - form [ref=e104]:
+                    - generic [ref=e106]:
+                      - generic [ref=e107]:
+                        - generic [ref=e108]:
+                          - text: Full name
+                          - generic [ref=e109]: "*"
+                        - textbox "Full name" [ref=e110]
+                      - generic [ref=e111]:
+                        - generic [ref=e112]:
+                          - text: Job title
+                          - generic [ref=e113]: "*"
+                        - textbox "Job title" [ref=e114]
+                      - generic [ref=e115]:
+                        - generic [ref=e116]:
+                          - text: Email
+                          - generic [ref=e117]: "*"
+                        - textbox "Email" [ref=e118]
+                      - generic [ref=e119]:
+                        - generic [ref=e120]:
+                          - text: Your website
+                          - generic [ref=e121]: "*"
+                        - textbox "Your website" [ref=e122]
+                      - generic [ref=e123]:
+                        - generic [ref=e124]:
+                          - text: Leave a Message
+                          - generic [ref=e125]: "*"
+                        - textbox "Leave a Message" [ref=e126]
+                      - group [ref=e127]:
+                        - generic [ref=e128] [cursor=pointer]: I would like to receive offers, news and information via email
+                      - button "Submit" [ref=e133] [cursor=pointer]
+                - generic [ref=e138]:
+                  - img "Heineken" [ref=e142]
+                  - img "Panasonic" [ref=e146]
+                  - img "Electrolux" [ref=e150]
+                  - img "Westinghouse" [ref=e154]
+                  - img "Braun" [ref=e158]
+                  - img "DeLonghi" [ref=e162]
+                  - img "Kenwood" [ref=e166]
+                  - img "Zanussi" [ref=e170]
+                  - img "AEG" [ref=e174]
+                  - img "Wilson Parking" [ref=e178]
+                  - img "Wilson Security" [ref=e182]
+                  - img "La Vie en Rose" [ref=e186]
+                  - img "Perth Mint" [ref=e190]
+                  - img "Laerdal" [ref=e194]
+                  - img "Steadfast" [ref=e198]
+                  - img "Briscoes Homeware" [ref=e202]
+                  - img "Adairs" [ref=e206]
+                  - img "Vintec" [ref=e210]
+                  - img "Maria Nila" [ref=e214]
+                  - img "MLA" [ref=e218]
+                  - img "Bisnode" [ref=e222]
+                  - img "Dagens Nyheter" [ref=e226]
+                  - img "AnalogFolk" [ref=e230]
+                  - img "High Industries" [ref=e234]
+                  - img "Hort Innovation" [ref=e238]
+                  - img "Beef Eater" [ref=e242]
+                  - img "Evo" [ref=e246]
+                  - img "NorthShore Care Supply" [ref=e250]
+                  - img "Peter's of Kensington" [ref=e254]
+                  - img "Digizuite" [ref=e258]
+                  - img "Privata Affärer" [ref=e262]
+                  - img "Haircare Group" [ref=e266]
+                  - img "Bikini Village" [ref=e270]
+                  - img "Integrity Systems" [ref=e274]
+                  - img "Ahum" [ref=e278]
+                  - img "The Good Mood Food" [ref=e282]
+                - generic [ref=e285]:
+                  - heading "Speak with one of our experts" [level=2] [ref=e288]
+                  - generic [ref=e292]:
+                    - group "1 / 5" [ref=e293]:
+                      - generic [ref=e297]:
+                        - generic [ref=e298]:
+                          - img "Confident male professional in black suit and tie with folded arms" [ref=e301]
+                          - generic [ref=e302]: Rikard Ljungman
+                          - generic [ref=e303]: Sweden
+                          - link "rikard-2" [ref=e305] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/rikard-ljungman/
+                            - img "rikard-2" [ref=e307] [cursor=pointer]
+                        - generic [ref=e308] [cursor=pointer]: BOOK A MEETING
+                    - group "2 / 5" [ref=e309]:
+                      - generic [ref=e313]:
+                        - generic [ref=e314]:
+                          - img "Professional headshot of a man in a black suit and pink tie on a dark background" [ref=e317]
+                          - generic [ref=e318]: YiLun Miao
+                          - generic [ref=e319]: ANZ & SEA
+                          - link "yilun-miao-2" [ref=e321] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/yilunmiao/
+                            - img "yilun-miao-2" [ref=e323] [cursor=pointer]
+                        - generic [ref=e324] [cursor=pointer]: BOOK A MEETING
+                    - group "3 / 5" [ref=e325]:
+                      - generic [ref=e329]:
+                        - generic [ref=e330]:
+                          - img "Professional portrait of a confident woman with short blonde hair and black turtleneck" [ref=e333]
+                          - generic [ref=e334]: Jill George
+                          - generic [ref=e335]: Europe
+                          - link "jill-george" [ref=e337] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/jill-george-57056b22b/
+                            - img "jill-george" [ref=e339] [cursor=pointer]
+                        - generic [ref=e340] [cursor=pointer]: BOOK A MEETING
+                    - group "4 / 5" [ref=e341]:
+                      - generic [ref=e345]:
+                        - generic [ref=e346]:
+                          - img "To create the alt text including keywords from the H1 or H2, please provide the content or keywords from the H1 or H2 of t..." [ref=e349]
+                          - generic [ref=e350]: Mark Welland
+                          - generic [ref=e351]: Europe & North America
+                          - link "mark" [ref=e353] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/markwelland/
+                            - img "mark" [ref=e355] [cursor=pointer]
+                        - generic [ref=e356] [cursor=pointer]: BOOK A MEETING
+                    - group "5 / 5" [ref=e357]:
+                      - generic [ref=e361]:
+                        - generic [ref=e362]:
+                          - img "Please provide the H1 or H2 keywords or share the content of the page where this image is displayed, so I can create an ac..." [ref=e365]
+                          - generic [ref=e366]: Tyson Graham
+                          - generic [ref=e367]: North America
+                          - link "tyson1" [ref=e369] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/tysongraham/
+                            - img "tyson1" [ref=e371] [cursor=pointer]
+                        - generic [ref=e372] [cursor=pointer]: BOOK A MEETING
+                - generic [ref=e374]:
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: Our offices
+                    - generic [ref=e377]: Niteco is a global company with offices on four continents. That means we’re always near you, wherever you are.
+                  - generic [ref=e378]:
+                    - generic [ref=e379]:
+                      - generic:
+                        - img "USA"
+                      - generic [ref=e380]:
+                        - img "USA" [ref=e383]
+                        - generic [ref=e384]:
+                          - paragraph [ref=e385]: USA
+                          - paragraph [ref=e386]: Niteco US
+                          - paragraph [ref=e387]: 16192 Coastal Highway, Lewes, DE 19958, USA
+                          - paragraph [ref=e388]:
+                            - link "moc.ocetin@ofni.asu" [ref=e389] [cursor=pointer]:
+                              - /url: mailto:%75%73%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e390] [cursor=pointer]: moc.ocetin@ofni.asu
+                          - paragraph [ref=e391]:
+                            - link "+1 917 239 1987" [ref=e392] [cursor=pointer]:
+                              - /url: tel:+1 917 239 1987
+                    - generic [ref=e393]:
+                      - generic:
+                        - img "Stockholm"
+                      - generic [ref=e394]:
+                        - img "Stockholm" [ref=e397]
+                        - generic [ref=e398]:
+                          - paragraph [ref=e399]: Stockholm
+                          - paragraph [ref=e400]: Niteco AB
+                          - paragraph [ref=e401]: Hemvärnsgatan 9 171 54, Solna Sweden
+                          - paragraph [ref=e402]:
+                            - link "es.ocetin@ofni.nedews" [ref=e403] [cursor=pointer]:
+                              - /url: mailto:%73%77%65%64%65%6E%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%73%65
+                              - generic [ref=e404] [cursor=pointer]: es.ocetin@ofni.nedews
+                          - paragraph [ref=e405]:
+                            - link "+46 700 35 58 30" [ref=e406] [cursor=pointer]:
+                              - /url: tel:+46 700 35 58 30
+                    - generic [ref=e407]:
+                      - generic:
+                        - img "London"
+                      - generic [ref=e408]:
+                        - img "London" [ref=e411]
+                        - generic [ref=e412]:
+                          - paragraph [ref=e413]: London
+                          - paragraph [ref=e414]: Niteco Europe Ltd
+                          - paragraph [ref=e415]: 124 City Road, London, EC1V 2NX, United Kingdom
+                          - paragraph [ref=e416]:
+                            - link "ku.oc.ocetin@ofni.ku" [ref=e417] [cursor=pointer]:
+                              - /url: mailto:%75%6B%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%2E%75%6B
+                              - generic [ref=e418] [cursor=pointer]: ku.oc.ocetin@ofni.ku
+                          - paragraph [ref=e419]:
+                            - link "+44 7919 394 559" [ref=e420] [cursor=pointer]:
+                              - /url: tel:+44 7919 394 559
+                    - generic [ref=e421]:
+                      - generic:
+                        - img "Sydney"
+                      - generic [ref=e422]:
+                        - img "Sydney" [ref=e425]
+                        - generic [ref=e426]:
+                          - paragraph [ref=e427]: Sydney
+                          - paragraph [ref=e428]: Niteco Pty Ltd
+                          - paragraph [ref=e429]: Suite 2, Level 3, 84 Union St, Pyrmont, NSW 2009
+                          - paragraph [ref=e430]:
+                            - link "moc.ocetin@ofni.ailartsua" [ref=e431] [cursor=pointer]:
+                              - /url: mailto:%61%75%73%74%72%61%6C%69%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e432] [cursor=pointer]: moc.ocetin@ofni.ailartsua
+                          - paragraph [ref=e433]:
+                            - link "+61 405 208 629" [ref=e434] [cursor=pointer]:
+                              - /url: tel:+61 405 208 629
+                    - generic [ref=e435]:
+                      - generic:
+                        - img "Hongkong"
+                      - generic [ref=e436]:
+                        - img "Hongkong" [ref=e439]
+                        - generic [ref=e440]:
+                          - paragraph [ref=e441]: Hongkong
+                          - paragraph [ref=e442]: Niteco Group Ltd
+                          - paragraph [ref=e443]: 31/F Tower Two, Times Square, 1 Matheson St, Causeway Bay
+                          - paragraph [ref=e444]:
+                            - link "moc.ocetin@ofni.kh" [ref=e445] [cursor=pointer]:
+                              - /url: mailto:%68%6B%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e446] [cursor=pointer]: moc.ocetin@ofni.kh
+                          - paragraph [ref=e447]:
+                            - link "+852 5808 0458" [ref=e448] [cursor=pointer]:
+                              - /url: tel:+852 5808 0458
+                    - generic [ref=e449]:
+                      - generic:
+                        - img "Hanoi"
+                      - generic [ref=e450]:
+                        - img "Hanoi" [ref=e453]
+                        - generic [ref=e454]:
+                          - paragraph [ref=e455]: Hanoi
+                          - paragraph [ref=e456]: Niteco Vietnam Company Ltd
+                          - paragraph [ref=e457]: C'Land Tower, 14th Floor, 156 Xa Dan II St, Dong Da Dist., Hanoi, Vietnam
+                          - paragraph [ref=e458]:
+                            - link "moc.ocetin@ofni" [ref=e459] [cursor=pointer]:
+                              - /url: mailto:%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e460] [cursor=pointer]: moc.ocetin@ofni
+                          - paragraph [ref=e461]:
+                            - link "+84 24 3573 9623" [ref=e462] [cursor=pointer]:
+                              - /url: tel:+84 24 3573 9623
+                    - generic [ref=e463]:
+                      - generic:
+                        - img "Ho Chi Minh"
+                      - generic [ref=e464]:
+                        - img "Ho Chi Minh" [ref=e467]
+                        - generic [ref=e468]:
+                          - paragraph [ref=e469]: Ho Chi Minh
+                          - paragraph [ref=e470]: Niteco Vietnam Company Ltd
+                          - paragraph [ref=e471]: E.Town Bldg. 1, 2nd Floor, 364 Cong Hoa St, Tan Binh Dist., Ho Chi Minh City, Vietnam
+                          - paragraph [ref=e472]:
+                            - link "moc.ocetin@ofni" [ref=e473] [cursor=pointer]:
+                              - /url: mailto:%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e474] [cursor=pointer]: moc.ocetin@ofni
+                          - paragraph [ref=e475]:
+                            - link "+84 28 6297 1215" [ref=e476] [cursor=pointer]:
+                              - /url: tel:+84 28 6297 1215
+                    - generic [ref=e477]:
+                      - generic:
+                        - img "Singapore"
+                      - generic [ref=e478]:
+                        - img "Singapore" [ref=e481]
+                        - generic [ref=e482]:
+                          - paragraph [ref=e483]: Singapore
+                          - paragraph [ref=e484]: Niteco Group Ltd
+                          - paragraph [ref=e485]: No 7 Temasek Boulevard#12-07 Suntec Tower One PMB1080 Singapore, 038987
+                          - paragraph [ref=e486]:
+                            - link "moc.ocetin@ofni.gs" [ref=e487] [cursor=pointer]:
+                              - /url: mailto:%73%67%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e488] [cursor=pointer]: moc.ocetin@ofni.gs
+    - contentinfo [ref=e490]:
+      - generic [ref=e491]:
+        - img "Niteco" [ref=e494]
+        - generic [ref=e495]:
+          - generic [ref=e496]:
+            - list [ref=e497]:
+              - listitem [ref=e498]:
+                - paragraph [ref=e499]:
+                  - generic [ref=e500]: Address
+                  - text: ": 16192 Coastal Highway, Lewes, DE 19958, USA"
+            - list [ref=e501]:
+              - listitem [ref=e502]:
+                - paragraph [ref=e503]:
+                  - generic [ref=e504]: Phone
+                  - text: ":"
+                  - link "+1 917 239 1987" [ref=e505] [cursor=pointer]:
+                    - /url: tel:+1 917 239 1987
+              - listitem [ref=e506]:
+                - paragraph [ref=e507]:
+                  - generic [ref=e508]: Email
+                  - text: ":"
+                  - link "moc.ocetin@ofni.asu" [ref=e509] [cursor=pointer]:
+                    - /url: mailto:%75%73%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                    - generic [ref=e510] [cursor=pointer]: moc.ocetin@ofni.asu
+            - link "View our offices" [ref=e512] [cursor=pointer]:
+              - /url: " /contact-us/#0c4ea610-0dee-4ee6-b67c-88cd882f2095"
+              - text: View our offices +
+          - generic [ref=e514]:
+            - list [ref=e516]:
+              - listitem [ref=e517]:
+                - link "Work" [ref=e518] [cursor=pointer]:
+                  - /url: /our-work/
+              - listitem [ref=e519]:
+                - link "Services" [ref=e520] [cursor=pointer]:
+                  - /url: /our-services/
+              - listitem [ref=e521]:
+                - link "Technology" [ref=e522] [cursor=pointer]:
+                  - /url: /our-partners/optimizely/
+              - listitem [ref=e523]:
+                - link "Articles" [ref=e524] [cursor=pointer]:
+                  - /url: /articles/
+            - list [ref=e526]:
+              - listitem [ref=e527]:
+                - link "Careers" [ref=e528] [cursor=pointer]:
+                  - /url: /careers/
+              - listitem [ref=e529]:
+                - link "About Us" [ref=e530] [cursor=pointer]:
+                  - /url: /about-us/
+              - listitem [ref=e531]:
+                - link "Contact Us" [ref=e532] [cursor=pointer]:
+                  - /url: /contact-us/
+              - listitem [ref=e533]:
+                - link "NICEF" [ref=e534] [cursor=pointer]:
+                  - /url: /nicef/
+          - generic [ref=e535]:
+            - generic [ref=e536]: Subscribe to our newsletter
+            - generic [ref=e538]:
+              - textbox "Email" [ref=e539]
+              - generic [ref=e540] [cursor=pointer]: Subscribe
+            - list [ref=e542]:
+              - listitem [ref=e543]:
+                - link "Go to our Facebook" [ref=e544] [cursor=pointer]:
+                  - /url: https://facebook.com/Niteco
+                  - img [ref=e545] [cursor=pointer]
+              - listitem
+              - listitem [ref=e547]:
+                - link "Go to our Youtube" [ref=e548] [cursor=pointer]:
+                  - /url: https://youtube.com/user/nitecocompany
+                  - img [ref=e549] [cursor=pointer]
+              - listitem [ref=e551]:
+                - link "Go to our LinkedIn" [ref=e552] [cursor=pointer]:
+                  - /url: https://linkedin.com/company/niteco
+                  - img [ref=e553] [cursor=pointer]
+              - listitem
+              - listitem [ref=e555]:
+                - link "Get RSS Feed" [ref=e556] [cursor=pointer]:
+                  - /url: /syndication/?rootId=4229
+                  - img [ref=e557] [cursor=pointer]
+        - generic [ref=e559]:
+          - generic [ref=e561]:
+            - link "Terms & Conditions" [ref=e563] [cursor=pointer]:
+              - /url: /terms-conditions/
+            - generic [ref=e564]: "|"
+            - link "Privacy Policy" [ref=e566] [cursor=pointer]:
+              - /url: /privacy-policy/
+          - generic [ref=e567]: Copyright © 2025 Niteco All rights reserved
+```

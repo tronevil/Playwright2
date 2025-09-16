@@ -1,0 +1,1564 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - region "We value your privacy" [ref=e2]:
+    - generic [ref=e3]:
+      - button "Close" [ref=e4] [cursor=pointer]:
+        - img "Close" [ref=e5] [cursor=pointer]
+      - generic [ref=e6]:
+        - heading "We value your privacy" [level=1] [ref=e7]
+        - generic [ref=e8]:
+          - paragraph [ref=e10]: We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+          - generic [ref=e11]:
+            - button "Customize" [ref=e12] [cursor=pointer]
+            - button "Reject All" [ref=e13] [cursor=pointer]
+            - button "Accept All" [ref=e14] [cursor=pointer]
+  - generic [ref=e15]:
+    - banner [ref=e17]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: Track your website's performance and compare it to your competitors. Try out our FREE Performance Insight tool now!
+          - link "Sign Up" [ref=e22] [cursor=pointer]:
+            - /url: https://insights.niteco.com/
+            - generic [ref=e23] [cursor=pointer]: Sign Up
+            - img [ref=e24] [cursor=pointer]
+        - img "icn-close" [ref=e26] [cursor=pointer]
+      - generic [ref=e28]:
+        - link "Return home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img [ref=e31] [cursor=pointer]
+        - navigation "Main navigation" [ref=e39]:
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "Work" [ref=e42] [cursor=pointer]:
+                - /url: /our-work/
+            - listitem [ref=e43]:
+              - link "Services" [ref=e44] [cursor=pointer]:
+                - /url: /our-services/
+                - text: Services
+                - img [ref=e45] [cursor=pointer]
+            - listitem [ref=e47]:
+              - link "Platforms" [ref=e48] [cursor=pointer]:
+                - /url: /our-partners/optimizely/
+                - text: Platforms
+                - img [ref=e49] [cursor=pointer]
+            - listitem [ref=e51]:
+              - link "AI Innovation" [ref=e52] [cursor=pointer]:
+                - /url: /ai/
+            - listitem [ref=e53]:
+              - link "Articles" [ref=e54] [cursor=pointer]:
+                - /url: /articles/
+        - link "Contact us" [ref=e56] [cursor=pointer]:
+          - /url: /contact-us/
+    - table [ref=e57]:
+      - rowgroup [ref=e58]:
+        - row [ref=e59]:
+          - cell [ref=e60]:
+            - main [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e70]:
+                  - generic [ref=e71]:
+                    - heading "AI-first digital experience and technology agency." [level=1] [ref=e73]
+                    - paragraph [ref=e75]: 400 experts across 4 continents, delivering agile and AI-powered solutions to 140+ countries with certified, experienced project teams.
+                    - link "Our services" [ref=e77] [cursor=pointer]:
+                      - /url: /our-services/
+                  - img "homepage-banner-resize" [ref=e81]
+                - generic [ref=e86]:
+                  - img "Heineken" [ref=e90]
+                  - img "Panasonic" [ref=e94]
+                  - img "Electrolux" [ref=e98]
+                  - img "Westinghouse" [ref=e102]
+                  - img "Braun" [ref=e106]
+                  - img "DeLonghi" [ref=e110]
+                  - img "Kenwood" [ref=e114]
+                  - img "Zanussi" [ref=e118]
+                  - img "AEG" [ref=e122]
+                  - img "Wilson Parking" [ref=e126]
+                  - img "Wilson Security" [ref=e130]
+                  - img "La Vie en Rose" [ref=e134]
+                  - img "Perth Mint" [ref=e138]
+                  - img "Laerdal" [ref=e142]
+                  - img "Steadfast" [ref=e146]
+                  - img "Briscoes Homeware" [ref=e150]
+                  - img "Adairs" [ref=e154]
+                  - img "Vintec" [ref=e158]
+                  - img "Maria Nila" [ref=e162]
+                  - img "MLA" [ref=e166]
+                  - img "Bisnode" [ref=e170]
+                  - img "Dagens Nyheter" [ref=e174]
+                  - img "AnalogFolk" [ref=e178]
+                  - img "High Industries" [ref=e182]
+                  - img "Hort Innovation" [ref=e186]
+                  - img "Beef Eater" [ref=e190]
+                  - img "Evo" [ref=e194]
+                  - img "NorthShore Care Supply" [ref=e198]
+                  - img "Peter's of Kensington" [ref=e202]
+                  - img "Digizuite" [ref=e206]
+                  - img "Privata Affärer" [ref=e210]
+                  - img "Haircare Group" [ref=e214]
+                  - img "Bikini Village" [ref=e218]
+                  - img "Integrity Systems" [ref=e222]
+                  - img "Ahum" [ref=e226]
+                  - img "The Good Mood Food" [ref=e230]
+                - generic [ref=e233]:
+                  - heading "Full-service digital agency for platform creation and optimization" [level=2] [ref=e236]:
+                    - text: Full-service digital agency
+                    - generic [ref=e237]: for platform creation and optimization
+                  - generic [ref=e241]:
+                    - group "1 / 3" [ref=e242]:
+                      - generic [ref=e244]:
+                        - generic [ref=e245]:
+                          - img "Yellow bar chart icon showing upward growth with four vertical bars" [ref=e247]
+                          - paragraph [ref=e249]:
+                            - text: Elevate &
+                            - text: maintain your sites
+                          - paragraph [ref=e251]:
+                            - generic [ref=e253]: Achieve peak site performance and growth with our maintenance and 24/7 monitoring.
+                        - generic [ref=e256]:
+                          - link "OPTIMIZELY UPGRADES" [ref=e258] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/upgrade/
+                          - link "24/7 MONITORING" [ref=e260] [cursor=pointer]:
+                            - /url: /our-services/247-proactive-response/
+                          - link "OPTIMIZELY ENHANCEMENT" [ref=e262] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/
+                    - group "2 / 3" [ref=e265]:
+                      - generic [ref=e267]:
+                        - generic [ref=e268]:
+                          - img "Child safety lock on a yellow kitchen cabinet handle for home safety" [ref=e270]
+                          - paragraph [ref=e272]:
+                            - text: Build new
+                            - text: solutions
+                          - paragraph [ref=e274]:
+                            - generic [ref=e275]: Our
+                            - generic [ref=e276]: expertise
+                            - generic [ref=e277]: drives your success. We build and innovate so you can lead the industry.
+                        - generic [ref=e280]:
+                          - link "DIGITAL STRATEGY & TRANSFORMATION" [ref=e282] [cursor=pointer]:
+                            - /url: /our-services/strategy-and-consulting/
+                          - link "WEBSITE DEVELOPMENT" [ref=e284] [cursor=pointer]:
+                            - /url: /our-services/website-development/
+                          - link "COMMERCE DEVELOPMENT" [ref=e286] [cursor=pointer]:
+                            - /url: /our-services/e-commerce-solutions/
+                          - link "MOBILE APP DEVELOPMENT" [ref=e288] [cursor=pointer]:
+                            - /url: /our-services/mobile-solutions/
+                    - group "3 / 3" [ref=e289]:
+                      - generic [ref=e291]:
+                        - generic [ref=e292]:
+                          - img "Please upload the image you want the alt text for, or provide the content of the page and the specified keywords from the ..." [ref=e294]
+                          - paragraph [ref=e296]:
+                            - text: Crush your
+                            - text: conversion goals
+                          - paragraph [ref=e298]: You might have 99 problems, but with our data-driven strategies, conversion won't be one.
+                        - generic [ref=e301]:
+                          - link "CONVERSION RATE OPTIMIZATION" [ref=e303] [cursor=pointer]:
+                            - /url: /our-services/conversion-rate-optimization/
+                          - link "DIGITAL MARKETING SERVICES" [ref=e305] [cursor=pointer]:
+                            - /url: /our-services/digital-marketing/
+                          - link "USER EXPERIENCE STRATEGY" [ref=e307] [cursor=pointer]:
+                            - /url: /our-services/ux-ui-design/
+                    - group "1 / 3" [ref=e310]:
+                      - generic [ref=e312]:
+                        - generic [ref=e313]:
+                          - img "Yellow bar chart icon showing upward growth with four vertical bars" [ref=e315]
+                          - paragraph [ref=e317]:
+                            - text: Elevate &
+                            - text: maintain your sites
+                          - paragraph [ref=e319]:
+                            - generic [ref=e321]: Achieve peak site performance and growth with our maintenance and 24/7 monitoring.
+                        - generic [ref=e324]:
+                          - link "OPTIMIZELY UPGRADES" [ref=e326] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/upgrade/
+                          - link "24/7 MONITORING" [ref=e328] [cursor=pointer]:
+                            - /url: /our-services/247-proactive-response/
+                          - link "OPTIMIZELY ENHANCEMENT" [ref=e330] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/
+                    - group "2 / 3" [ref=e333]:
+                      - generic [ref=e335]:
+                        - generic [ref=e336]:
+                          - img "Child safety lock on a yellow kitchen cabinet handle for home safety" [ref=e338]
+                          - paragraph [ref=e340]:
+                            - text: Build new
+                            - text: solutions
+                          - paragraph [ref=e342]:
+                            - generic [ref=e343]: Our
+                            - generic [ref=e344]: expertise
+                            - generic [ref=e345]: drives your success. We build and innovate so you can lead the industry.
+                        - generic [ref=e348]:
+                          - link "DIGITAL STRATEGY & TRANSFORMATION" [ref=e350] [cursor=pointer]:
+                            - /url: /our-services/strategy-and-consulting/
+                          - link "WEBSITE DEVELOPMENT" [ref=e352] [cursor=pointer]:
+                            - /url: /our-services/website-development/
+                          - link "COMMERCE DEVELOPMENT" [ref=e354] [cursor=pointer]:
+                            - /url: /our-services/e-commerce-solutions/
+                          - link "MOBILE APP DEVELOPMENT" [ref=e356] [cursor=pointer]:
+                            - /url: /our-services/mobile-solutions/
+                    - group "3 / 3" [ref=e357]:
+                      - generic [ref=e359]:
+                        - generic [ref=e360]:
+                          - img "Please upload the image you want the alt text for, or provide the content of the page and the specified keywords from the ..." [ref=e362]
+                          - paragraph [ref=e364]:
+                            - text: Crush your
+                            - text: conversion goals
+                          - paragraph [ref=e366]: You might have 99 problems, but with our data-driven strategies, conversion won't be one.
+                        - generic [ref=e369]:
+                          - link "CONVERSION RATE OPTIMIZATION" [ref=e371] [cursor=pointer]:
+                            - /url: /our-services/conversion-rate-optimization/
+                          - link "DIGITAL MARKETING SERVICES" [ref=e373] [cursor=pointer]:
+                            - /url: /our-services/digital-marketing/
+                          - link "USER EXPERIENCE STRATEGY" [ref=e375] [cursor=pointer]:
+                            - /url: /our-services/ux-ui-design/
+                    - group "1 / 3" [ref=e378]:
+                      - generic [ref=e380]:
+                        - generic [ref=e381]:
+                          - img "Yellow bar chart icon showing upward growth with four vertical bars" [ref=e383]
+                          - paragraph [ref=e385]:
+                            - text: Elevate &
+                            - text: maintain your sites
+                          - paragraph [ref=e387]:
+                            - generic [ref=e389]: Achieve peak site performance and growth with our maintenance and 24/7 monitoring.
+                        - generic [ref=e392]:
+                          - link "OPTIMIZELY UPGRADES" [ref=e394] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/upgrade/
+                          - link "24/7 MONITORING" [ref=e396] [cursor=pointer]:
+                            - /url: /our-services/247-proactive-response/
+                          - link "OPTIMIZELY ENHANCEMENT" [ref=e398] [cursor=pointer]:
+                            - /url: /our-partners/optimizely/
+                    - group "2 / 3" [ref=e401]:
+                      - generic [ref=e403]:
+                        - generic [ref=e404]:
+                          - img "Child safety lock on a yellow kitchen cabinet handle for home safety" [ref=e406]
+                          - paragraph [ref=e408]:
+                            - text: Build new
+                            - text: solutions
+                          - paragraph [ref=e410]:
+                            - generic [ref=e411]: Our
+                            - generic [ref=e412]: expertise
+                            - generic [ref=e413]: drives your success. We build and innovate so you can lead the industry.
+                        - generic [ref=e416]:
+                          - link "DIGITAL STRATEGY & TRANSFORMATION" [ref=e418] [cursor=pointer]:
+                            - /url: /our-services/strategy-and-consulting/
+                          - link "WEBSITE DEVELOPMENT" [ref=e420] [cursor=pointer]:
+                            - /url: /our-services/website-development/
+                          - link "COMMERCE DEVELOPMENT" [ref=e422] [cursor=pointer]:
+                            - /url: /our-services/e-commerce-solutions/
+                          - link "MOBILE APP DEVELOPMENT" [ref=e424] [cursor=pointer]:
+                            - /url: /our-services/mobile-solutions/
+                    - group "3 / 3" [ref=e425]:
+                      - generic [ref=e427]:
+                        - generic [ref=e428]:
+                          - img "Please upload the image you want the alt text for, or provide the content of the page and the specified keywords from the ..." [ref=e430]
+                          - paragraph [ref=e432]:
+                            - text: Crush your
+                            - text: conversion goals
+                          - paragraph [ref=e434]: You might have 99 problems, but with our data-driven strategies, conversion won't be one.
+                        - generic [ref=e437]:
+                          - link "CONVERSION RATE OPTIMIZATION" [ref=e439] [cursor=pointer]:
+                            - /url: /our-services/conversion-rate-optimization/
+                          - link "DIGITAL MARKETING SERVICES" [ref=e441] [cursor=pointer]:
+                            - /url: /our-services/digital-marketing/
+                          - link "USER EXPERIENCE STRATEGY" [ref=e443] [cursor=pointer]:
+                            - /url: /our-services/ux-ui-design/
+                - generic [ref=e448]:
+                  - paragraph [ref=e451]: Expertise, global reach, recognition.
+                  - generic [ref=e453]:
+                    - generic [ref=e455]:
+                      - paragraph [ref=e457]: "#1"
+                      - generic [ref=e458]:
+                        - paragraph [ref=e459]: OPTIMIZELY
+                        - paragraph [ref=e460]: The Largest Global Partner. Powered by technical excellence and innovation. Accelerated by AI.
+                    - generic [ref=e462]:
+                      - paragraph [ref=e464]: 400+
+                      - generic [ref=e465]:
+                        - paragraph [ref=e466]: AI-Trained Experts
+                        - paragraph [ref=e467]: Certified by leading platforms like Optimizely, Microsoft, Contentful & Adobe.
+                    - generic [ref=e469]:
+                      - paragraph [ref=e471]: 2000+
+                      - generic [ref=e472]:
+                        - paragraph [ref=e473]: successful projects
+                        - paragraph [ref=e474]: We have vast experience from years of delivering digital platforms for clients in diverse sectors.
+                    - generic [ref=e476]:
+                      - paragraph [ref=e478]: "4"
+                      - generic [ref=e479]:
+                        - paragraph [ref=e480]: Optimizely Platinum MVPs
+                        - paragraph [ref=e481]: Meaning the best & most experienced Optimizely minds will work with you.
+                - generic [ref=e484]:
+                  - generic [ref=e485]: Client success stories
+                  - generic [ref=e486]: We're the world's largest Optimizely Partner, but we deliver expertise in many platforms and technologies. Here are some examples.
+                  - generic [ref=e488]:
+                    - link "VINTEC logo with a red triangle accent on the letter V, bold white text on black A multilingual, multi-market upgrade with improved conversion for Vintec Vintec wine cabinets webpage showing premium 198 bottle wine cabinet and kitchen setting" [ref=e489] [cursor=pointer]:
+                      - /url: /our-work/vintec/
+                      - generic [ref=e491] [cursor=pointer]:
+                        - img "VINTEC logo with a red triangle accent on the letter V, bold white text on black" [ref=e494] [cursor=pointer]
+                        - generic [ref=e495] [cursor=pointer]: A multilingual, multi-market upgrade with improved conversion for Vintec
+                      - img "Vintec wine cabinets webpage showing premium 198 bottle wine cabinet and kitchen setting" [ref=e497] [cursor=pointer]
+                    - generic [ref=e498]:
+                      - link "Electrolux logo with circular emblem and bold white text on black background Powering Electrolux’s email marketing in the APAC and MEA regions Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e499] [cursor=pointer]:
+                        - /url: /our-work/electrolux-email-marketing-apac-mea/
+                        - generic [ref=e500] [cursor=pointer]:
+                          - generic [ref=e502] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold white text on black background" [ref=e505] [cursor=pointer]
+                            - generic [ref=e506] [cursor=pointer]: Powering Electrolux’s email marketing in the APAC and MEA regions
+                          - img "Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e509] [cursor=pointer]
+                      - link "Electrolux logo with circular emblem and bold company name in white text Conversion Rate Optimization leads to better user flows for Electrolux Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e510] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cro/
+                        - generic [ref=e511] [cursor=pointer]:
+                          - generic [ref=e513] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold company name in white text" [ref=e516] [cursor=pointer]
+                            - generic [ref=e517] [cursor=pointer]: Conversion Rate Optimization leads to better user flows for Electrolux
+                          - img "Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e520] [cursor=pointer]
+                      - link "Electrolux logo with stylized symbol and brand name in white on black background 20% more traffic and more conversions with SEO services for 15 Electrolux websites Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e521] [cursor=pointer]:
+                        - /url: /our-work/electrolux-seo/
+                        - generic [ref=e522] [cursor=pointer]:
+                          - generic [ref=e524] [cursor=pointer]:
+                            - img "Electrolux logo with stylized symbol and brand name in white on black background" [ref=e527] [cursor=pointer]
+                            - generic [ref=e528] [cursor=pointer]: 20% more traffic and more conversions with SEO services for 15 Electrolux websites
+                          - img "Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e531] [cursor=pointer]
+                      - link "Electrolux logo with modern design symbolizing innovative home appliances. Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets Electrolux online support and product registration for home appliances" [ref=e532] [cursor=pointer]:
+                        - /url: /our-work/electrolux-apac-mea/
+                        - generic [ref=e533] [cursor=pointer]:
+                          - generic [ref=e535] [cursor=pointer]:
+                            - img "Electrolux logo with modern design symbolizing innovative home appliances." [ref=e538] [cursor=pointer]
+                            - generic [ref=e539] [cursor=pointer]: Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets
+                          - img "Electrolux online support and product registration for home appliances" [ref=e542] [cursor=pointer]
+                      - link "Logo of The Good Mood Food with a smile incorporated in the text Innovating healthy eating with The Good Mood Food The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e543] [cursor=pointer]:
+                        - /url: /our-work/the-good-mood-food/
+                        - generic [ref=e544] [cursor=pointer]:
+                          - generic [ref=e546] [cursor=pointer]:
+                            - img "Logo of The Good Mood Food with a smile incorporated in the text" [ref=e549] [cursor=pointer]
+                            - generic [ref=e550] [cursor=pointer]: Innovating healthy eating with The Good Mood Food
+                          - img "The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e553] [cursor=pointer]
+                      - link "Maria Nila logo with clock-like circular design and Stockholm text. 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e554] [cursor=pointer]:
+                        - /url: /our-work/marianila-seo/
+                        - generic [ref=e555] [cursor=pointer]:
+                          - generic [ref=e557] [cursor=pointer]:
+                            - img "Maria Nila logo with clock-like circular design and Stockholm text." [ref=e560] [cursor=pointer]
+                            - generic [ref=e561] [cursor=pointer]: 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services
+                          - img "Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e564] [cursor=pointer]
+                      - link "Panasonic logo in bold white font on a black background High performance and rapid optimization for Panasonic Australia Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e565] [cursor=pointer]:
+                        - /url: /our-work/panasonic-australia/
+                        - generic [ref=e566] [cursor=pointer]:
+                          - generic [ref=e568] [cursor=pointer]:
+                            - img "Panasonic logo in bold white font on a black background" [ref=e571] [cursor=pointer]
+                            - generic [ref=e572] [cursor=pointer]: High performance and rapid optimization for Panasonic Australia
+                          - img "Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e575] [cursor=pointer]
+                      - link "AEG Delivering an award-winning customer-centric, high-performance website for AEG AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e576] [cursor=pointer]:
+                        - /url: /our-work/aeg-australia/
+                        - generic [ref=e577] [cursor=pointer]:
+                          - generic [ref=e579] [cursor=pointer]:
+                            - img "AEG" [ref=e582] [cursor=pointer]
+                            - generic [ref=e583] [cursor=pointer]: Delivering an award-winning customer-centric, high-performance website for AEG
+                          - img "AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e586] [cursor=pointer]
+                      - link "Electrolux Harnessing user data for Electrolux with Google Analytics and Google Tag Manager Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e587] [cursor=pointer]:
+                        - /url: /our-work/electrolux-analytics/
+                        - generic [ref=e588] [cursor=pointer]:
+                          - generic [ref=e590] [cursor=pointer]:
+                            - img "Electrolux" [ref=e593] [cursor=pointer]
+                            - generic [ref=e594] [cursor=pointer]: Harnessing user data for Electrolux with Google Analytics and Google Tag Manager
+                          - img "Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e597] [cursor=pointer]
+                      - link "Altius Group logo with tagline Realize Health Potential on a black background Guiding Altius Group’s digital transformation Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e598] [cursor=pointer]:
+                        - /url: /our-work/altius-group/
+                        - generic [ref=e599] [cursor=pointer]:
+                          - generic [ref=e601] [cursor=pointer]:
+                            - img "Altius Group logo with tagline Realize Health Potential on a black background" [ref=e604] [cursor=pointer]
+                            - generic [ref=e605] [cursor=pointer]: Guiding Altius Group’s digital transformation
+                          - img "Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e608] [cursor=pointer]
+                      - link "Electrolux logo with a stylized circular icon representing innovation and quality. Managing CMS customization for 11 markets Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e609] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cms/
+                        - generic [ref=e610] [cursor=pointer]:
+                          - generic [ref=e612] [cursor=pointer]:
+                            - img "Electrolux logo with a stylized circular icon representing innovation and quality." [ref=e615] [cursor=pointer]
+                            - generic [ref=e616] [cursor=pointer]: Managing CMS customization for 11 markets
+                          - img "Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e619] [cursor=pointer]
+                      - link "Digitized collaboration logo with three connected dots forming a leaf shape Integrating the Digizuite DAM into the Optimizely ecosystem DIGIZUITE digital asset management interface showing folders and filters" [ref=e620] [cursor=pointer]:
+                        - /url: /our-work/digizuite/
+                        - generic [ref=e621] [cursor=pointer]:
+                          - generic [ref=e623] [cursor=pointer]:
+                            - img "Digitized collaboration logo with three connected dots forming a leaf shape" [ref=e626] [cursor=pointer]
+                            - generic [ref=e627] [cursor=pointer]: Integrating the Digizuite DAM into the Optimizely ecosystem
+                          - img "DIGIZUITE digital asset management interface showing folders and filters" [ref=e630] [cursor=pointer]
+                      - link "Maria Nila logo with clock design in white, representing Stockholm brand identity Helping Maria Nila take the next step with Magento Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e631] [cursor=pointer]:
+                        - /url: /our-work/marianila/
+                        - generic [ref=e632] [cursor=pointer]:
+                          - generic [ref=e634] [cursor=pointer]:
+                            - img "Maria Nila logo with clock design in white, representing Stockholm brand identity" [ref=e637] [cursor=pointer]
+                            - generic [ref=e638] [cursor=pointer]: Helping Maria Nila take the next step with Magento
+                          - img "Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e641] [cursor=pointer]
+                      - 'link "LexMod logo with modern, minimalist typography in white on black background LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience Modern living room with a large gray sectional sofa and black pillows" [ref=e642] [cursor=pointer]':
+                        - /url: /our-work/lexmod/
+                        - generic [ref=e643] [cursor=pointer]:
+                          - generic [ref=e645] [cursor=pointer]:
+                            - img "LexMod logo with modern, minimalist typography in white on black background" [ref=e648] [cursor=pointer]
+                            - generic [ref=e649] [cursor=pointer]: "LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience"
+                          - img "Modern living room with a large gray sectional sofa and black pillows" [ref=e652] [cursor=pointer]
+                      - link "De'Longhi Providing full digital services to Commerce powerhouse De’Longhi Group DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e653] [cursor=pointer]:
+                        - /url: /our-work/delonghi/
+                        - generic [ref=e654] [cursor=pointer]:
+                          - generic [ref=e656] [cursor=pointer]:
+                            - img "De'Longhi" [ref=e659] [cursor=pointer]
+                            - generic [ref=e660] [cursor=pointer]: Providing full digital services to Commerce powerhouse De’Longhi Group
+                          - img "DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e663] [cursor=pointer]
+                      - link "Avensia logo with tagline We synergize Commerce in white on black background Taking care of Avensia around the clock with 24/7 Proactive Response Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e664] [cursor=pointer]:
+                        - /url: /our-work/avensia/
+                        - generic [ref=e665] [cursor=pointer]:
+                          - generic [ref=e667] [cursor=pointer]:
+                            - img "Avensia logo with tagline We synergize Commerce in white on black background" [ref=e670] [cursor=pointer]
+                            - generic [ref=e671] [cursor=pointer]: Taking care of Avensia around the clock with 24/7 Proactive Response
+                          - img "Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e674] [cursor=pointer]
+                      - link "Transvoice logo with bold white text on a black background Creating “Uber for Translators” from design to deployment Tolka welcome screen with Get Started button and travel route tracking map" [ref=e675] [cursor=pointer]:
+                        - /url: /our-work/transvoice/
+                        - generic [ref=e676] [cursor=pointer]:
+                          - generic [ref=e678] [cursor=pointer]:
+                            - img "Transvoice logo with bold white text on a black background" [ref=e681] [cursor=pointer]
+                            - generic [ref=e682] [cursor=pointer]: Creating “Uber for Translators” from design to deployment
+                          - img "Tolka welcome screen with Get Started button and travel route tracking map" [ref=e685] [cursor=pointer]
+                      - link "CGI white bold letters on black background, representing computer-generated imagery. Creating a messaging solution for schools for CGI The Education Agency's newsroom webpage with infection control and school updates" [ref=e686] [cursor=pointer]:
+                        - /url: /our-work/cgi/
+                        - generic [ref=e687] [cursor=pointer]:
+                          - generic [ref=e689] [cursor=pointer]:
+                            - img "CGI white bold letters on black background, representing computer-generated imagery." [ref=e692] [cursor=pointer]
+                            - generic [ref=e693] [cursor=pointer]: Creating a messaging solution for schools for CGI
+                          - img "The Education Agency's newsroom webpage with infection control and school updates" [ref=e696] [cursor=pointer]
+                      - link "Heineken logo with red star and establishment year 1873 on black background Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e697] [cursor=pointer]:
+                        - /url: /our-work/heineken-ekoin-mini-app/
+                        - generic [ref=e698] [cursor=pointer]:
+                          - generic [ref=e700] [cursor=pointer]:
+                            - img "Heineken logo with red star and establishment year 1873 on black background" [ref=e703] [cursor=pointer]
+                            - generic [ref=e704] [cursor=pointer]: Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app
+                          - img "Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e707] [cursor=pointer]
+                      - link "Leading Ecommerce transformation for Canada’s largest lingerie retailer" [ref=e708] [cursor=pointer]:
+                        - /url: /our-work/la-vie-en-rose/
+                        - generic [ref=e713] [cursor=pointer]: Leading Ecommerce transformation for Canada’s largest lingerie retailer
+                      - link "Primitives by Kathy logo Delivering an AI-powered upgrade for a US Home Décor brand" [ref=e714] [cursor=pointer]:
+                        - /url: /our-work/primitives-by-kathy/
+                        - generic [ref=e717] [cursor=pointer]:
+                          - img "Primitives by Kathy logo" [ref=e720] [cursor=pointer]
+                          - generic [ref=e721] [cursor=pointer]: Delivering an AI-powered upgrade for a US Home Décor brand
+                    - generic [ref=e722]:
+                      - link "Electrolux logo with circular emblem and bold white text on black background Powering Electrolux’s email marketing in the APAC and MEA regions Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e723] [cursor=pointer]:
+                        - /url: /our-work/electrolux-email-marketing-apac-mea/
+                        - generic [ref=e724] [cursor=pointer]:
+                          - generic [ref=e726] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold white text on black background" [ref=e729] [cursor=pointer]
+                            - generic [ref=e730] [cursor=pointer]: Powering Electrolux’s email marketing in the APAC and MEA regions
+                          - img "Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e733] [cursor=pointer]
+                      - link "Electrolux logo with circular emblem and bold company name in white text Conversion Rate Optimization leads to better user flows for Electrolux Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e734] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cro/
+                        - generic [ref=e735] [cursor=pointer]:
+                          - generic [ref=e737] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold company name in white text" [ref=e740] [cursor=pointer]
+                            - generic [ref=e741] [cursor=pointer]: Conversion Rate Optimization leads to better user flows for Electrolux
+                          - img "Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e744] [cursor=pointer]
+                      - link "Electrolux logo with stylized symbol and brand name in white on black background 20% more traffic and more conversions with SEO services for 15 Electrolux websites Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e745] [cursor=pointer]:
+                        - /url: /our-work/electrolux-seo/
+                        - generic [ref=e746] [cursor=pointer]:
+                          - generic [ref=e748] [cursor=pointer]:
+                            - img "Electrolux logo with stylized symbol and brand name in white on black background" [ref=e751] [cursor=pointer]
+                            - generic [ref=e752] [cursor=pointer]: 20% more traffic and more conversions with SEO services for 15 Electrolux websites
+                          - img "Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e755] [cursor=pointer]
+                      - link "Electrolux logo with modern design symbolizing innovative home appliances. Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets Electrolux online support and product registration for home appliances" [ref=e756] [cursor=pointer]:
+                        - /url: /our-work/electrolux-apac-mea/
+                        - generic [ref=e757] [cursor=pointer]:
+                          - generic [ref=e759] [cursor=pointer]:
+                            - img "Electrolux logo with modern design symbolizing innovative home appliances." [ref=e762] [cursor=pointer]
+                            - generic [ref=e763] [cursor=pointer]: Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets
+                          - img "Electrolux online support and product registration for home appliances" [ref=e766] [cursor=pointer]
+                      - link "Logo of The Good Mood Food with a smile incorporated in the text Innovating healthy eating with The Good Mood Food The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e767] [cursor=pointer]:
+                        - /url: /our-work/the-good-mood-food/
+                        - generic [ref=e768] [cursor=pointer]:
+                          - generic [ref=e770] [cursor=pointer]:
+                            - img "Logo of The Good Mood Food with a smile incorporated in the text" [ref=e773] [cursor=pointer]
+                            - generic [ref=e774] [cursor=pointer]: Innovating healthy eating with The Good Mood Food
+                          - img "The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e777] [cursor=pointer]
+                      - link "Maria Nila logo with clock-like circular design and Stockholm text. 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e778] [cursor=pointer]:
+                        - /url: /our-work/marianila-seo/
+                        - generic [ref=e779] [cursor=pointer]:
+                          - generic [ref=e781] [cursor=pointer]:
+                            - img "Maria Nila logo with clock-like circular design and Stockholm text." [ref=e784] [cursor=pointer]
+                            - generic [ref=e785] [cursor=pointer]: 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services
+                          - img "Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e788] [cursor=pointer]
+                      - link "Panasonic logo in bold white font on a black background High performance and rapid optimization for Panasonic Australia Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e789] [cursor=pointer]:
+                        - /url: /our-work/panasonic-australia/
+                        - generic [ref=e790] [cursor=pointer]:
+                          - generic [ref=e792] [cursor=pointer]:
+                            - img "Panasonic logo in bold white font on a black background" [ref=e795] [cursor=pointer]
+                            - generic [ref=e796] [cursor=pointer]: High performance and rapid optimization for Panasonic Australia
+                          - img "Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e799] [cursor=pointer]
+                      - link "AEG Delivering an award-winning customer-centric, high-performance website for AEG AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e800] [cursor=pointer]:
+                        - /url: /our-work/aeg-australia/
+                        - generic [ref=e801] [cursor=pointer]:
+                          - generic [ref=e803] [cursor=pointer]:
+                            - img "AEG" [ref=e806] [cursor=pointer]
+                            - generic [ref=e807] [cursor=pointer]: Delivering an award-winning customer-centric, high-performance website for AEG
+                          - img "AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e810] [cursor=pointer]
+                      - link "Electrolux Harnessing user data for Electrolux with Google Analytics and Google Tag Manager Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e811] [cursor=pointer]:
+                        - /url: /our-work/electrolux-analytics/
+                        - generic [ref=e812] [cursor=pointer]:
+                          - generic [ref=e814] [cursor=pointer]:
+                            - img "Electrolux" [ref=e817] [cursor=pointer]
+                            - generic [ref=e818] [cursor=pointer]: Harnessing user data for Electrolux with Google Analytics and Google Tag Manager
+                          - img "Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e821] [cursor=pointer]
+                      - link "Altius Group logo with tagline Realize Health Potential on a black background Guiding Altius Group’s digital transformation Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e822] [cursor=pointer]:
+                        - /url: /our-work/altius-group/
+                        - generic [ref=e823] [cursor=pointer]:
+                          - generic [ref=e825] [cursor=pointer]:
+                            - img "Altius Group logo with tagline Realize Health Potential on a black background" [ref=e828] [cursor=pointer]
+                            - generic [ref=e829] [cursor=pointer]: Guiding Altius Group’s digital transformation
+                          - img "Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e832] [cursor=pointer]
+                      - link "Electrolux logo with a stylized circular icon representing innovation and quality. Managing CMS customization for 11 markets Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e833] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cms/
+                        - generic [ref=e834] [cursor=pointer]:
+                          - generic [ref=e836] [cursor=pointer]:
+                            - img "Electrolux logo with a stylized circular icon representing innovation and quality." [ref=e839] [cursor=pointer]
+                            - generic [ref=e840] [cursor=pointer]: Managing CMS customization for 11 markets
+                          - img "Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e843] [cursor=pointer]
+                      - link "Digitized collaboration logo with three connected dots forming a leaf shape Integrating the Digizuite DAM into the Optimizely ecosystem DIGIZUITE digital asset management interface showing folders and filters" [ref=e844] [cursor=pointer]:
+                        - /url: /our-work/digizuite/
+                        - generic [ref=e845] [cursor=pointer]:
+                          - generic [ref=e847] [cursor=pointer]:
+                            - img "Digitized collaboration logo with three connected dots forming a leaf shape" [ref=e850] [cursor=pointer]
+                            - generic [ref=e851] [cursor=pointer]: Integrating the Digizuite DAM into the Optimizely ecosystem
+                          - img "DIGIZUITE digital asset management interface showing folders and filters" [ref=e854] [cursor=pointer]
+                      - link "Maria Nila logo with clock design in white, representing Stockholm brand identity Helping Maria Nila take the next step with Magento Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e855] [cursor=pointer]:
+                        - /url: /our-work/marianila/
+                        - generic [ref=e856] [cursor=pointer]:
+                          - generic [ref=e858] [cursor=pointer]:
+                            - img "Maria Nila logo with clock design in white, representing Stockholm brand identity" [ref=e861] [cursor=pointer]
+                            - generic [ref=e862] [cursor=pointer]: Helping Maria Nila take the next step with Magento
+                          - img "Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e865] [cursor=pointer]
+                      - 'link "LexMod logo with modern, minimalist typography in white on black background LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience Modern living room with a large gray sectional sofa and black pillows" [ref=e866] [cursor=pointer]':
+                        - /url: /our-work/lexmod/
+                        - generic [ref=e867] [cursor=pointer]:
+                          - generic [ref=e869] [cursor=pointer]:
+                            - img "LexMod logo with modern, minimalist typography in white on black background" [ref=e872] [cursor=pointer]
+                            - generic [ref=e873] [cursor=pointer]: "LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience"
+                          - img "Modern living room with a large gray sectional sofa and black pillows" [ref=e876] [cursor=pointer]
+                      - link "De'Longhi Providing full digital services to Commerce powerhouse De’Longhi Group DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e877] [cursor=pointer]:
+                        - /url: /our-work/delonghi/
+                        - generic [ref=e878] [cursor=pointer]:
+                          - generic [ref=e880] [cursor=pointer]:
+                            - img "De'Longhi" [ref=e883] [cursor=pointer]
+                            - generic [ref=e884] [cursor=pointer]: Providing full digital services to Commerce powerhouse De’Longhi Group
+                          - img "DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e887] [cursor=pointer]
+                      - link "Avensia logo with tagline We synergize Commerce in white on black background Taking care of Avensia around the clock with 24/7 Proactive Response Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e888] [cursor=pointer]:
+                        - /url: /our-work/avensia/
+                        - generic [ref=e889] [cursor=pointer]:
+                          - generic [ref=e891] [cursor=pointer]:
+                            - img "Avensia logo with tagline We synergize Commerce in white on black background" [ref=e894] [cursor=pointer]
+                            - generic [ref=e895] [cursor=pointer]: Taking care of Avensia around the clock with 24/7 Proactive Response
+                          - img "Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e898] [cursor=pointer]
+                      - link "Transvoice logo with bold white text on a black background Creating “Uber for Translators” from design to deployment Tolka welcome screen with Get Started button and travel route tracking map" [ref=e899] [cursor=pointer]:
+                        - /url: /our-work/transvoice/
+                        - generic [ref=e900] [cursor=pointer]:
+                          - generic [ref=e902] [cursor=pointer]:
+                            - img "Transvoice logo with bold white text on a black background" [ref=e905] [cursor=pointer]
+                            - generic [ref=e906] [cursor=pointer]: Creating “Uber for Translators” from design to deployment
+                          - img "Tolka welcome screen with Get Started button and travel route tracking map" [ref=e909] [cursor=pointer]
+                      - link "CGI white bold letters on black background, representing computer-generated imagery. Creating a messaging solution for schools for CGI The Education Agency's newsroom webpage with infection control and school updates" [ref=e910] [cursor=pointer]:
+                        - /url: /our-work/cgi/
+                        - generic [ref=e911] [cursor=pointer]:
+                          - generic [ref=e913] [cursor=pointer]:
+                            - img "CGI white bold letters on black background, representing computer-generated imagery." [ref=e916] [cursor=pointer]
+                            - generic [ref=e917] [cursor=pointer]: Creating a messaging solution for schools for CGI
+                          - img "The Education Agency's newsroom webpage with infection control and school updates" [ref=e920] [cursor=pointer]
+                      - link "Heineken logo with red star and establishment year 1873 on black background Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e921] [cursor=pointer]:
+                        - /url: /our-work/heineken-ekoin-mini-app/
+                        - generic [ref=e922] [cursor=pointer]:
+                          - generic [ref=e924] [cursor=pointer]:
+                            - img "Heineken logo with red star and establishment year 1873 on black background" [ref=e927] [cursor=pointer]
+                            - generic [ref=e928] [cursor=pointer]: Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app
+                          - img "Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e931] [cursor=pointer]
+                      - link "Leading Ecommerce transformation for Canada’s largest lingerie retailer" [ref=e932] [cursor=pointer]:
+                        - /url: /our-work/la-vie-en-rose/
+                        - generic [ref=e937] [cursor=pointer]: Leading Ecommerce transformation for Canada’s largest lingerie retailer
+                      - link "Primitives by Kathy logo Delivering an AI-powered upgrade for a US Home Décor brand" [ref=e938] [cursor=pointer]:
+                        - /url: /our-work/primitives-by-kathy/
+                        - generic [ref=e941] [cursor=pointer]:
+                          - img "Primitives by Kathy logo" [ref=e944] [cursor=pointer]
+                          - generic [ref=e945] [cursor=pointer]: Delivering an AI-powered upgrade for a US Home Décor brand
+                    - generic [ref=e946]:
+                      - link "Electrolux logo with circular emblem and bold white text on black background Powering Electrolux’s email marketing in the APAC and MEA regions Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e947] [cursor=pointer]:
+                        - /url: /our-work/electrolux-email-marketing-apac-mea/
+                        - generic [ref=e948] [cursor=pointer]:
+                          - generic [ref=e950] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold white text on black background" [ref=e953] [cursor=pointer]
+                            - generic [ref=e954] [cursor=pointer]: Powering Electrolux’s email marketing in the APAC and MEA regions
+                          - img "Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e957] [cursor=pointer]
+                      - link "Electrolux logo with circular emblem and bold company name in white text Conversion Rate Optimization leads to better user flows for Electrolux Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e958] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cro/
+                        - generic [ref=e959] [cursor=pointer]:
+                          - generic [ref=e961] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold company name in white text" [ref=e964] [cursor=pointer]
+                            - generic [ref=e965] [cursor=pointer]: Conversion Rate Optimization leads to better user flows for Electrolux
+                          - img "Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e968] [cursor=pointer]
+                      - link "Electrolux logo with stylized symbol and brand name in white on black background 20% more traffic and more conversions with SEO services for 15 Electrolux websites Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e969] [cursor=pointer]:
+                        - /url: /our-work/electrolux-seo/
+                        - generic [ref=e970] [cursor=pointer]:
+                          - generic [ref=e972] [cursor=pointer]:
+                            - img "Electrolux logo with stylized symbol and brand name in white on black background" [ref=e975] [cursor=pointer]
+                            - generic [ref=e976] [cursor=pointer]: 20% more traffic and more conversions with SEO services for 15 Electrolux websites
+                          - img "Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e979] [cursor=pointer]
+                      - link "Electrolux logo with modern design symbolizing innovative home appliances. Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets Electrolux online support and product registration for home appliances" [ref=e980] [cursor=pointer]:
+                        - /url: /our-work/electrolux-apac-mea/
+                        - generic [ref=e981] [cursor=pointer]:
+                          - generic [ref=e983] [cursor=pointer]:
+                            - img "Electrolux logo with modern design symbolizing innovative home appliances." [ref=e986] [cursor=pointer]
+                            - generic [ref=e987] [cursor=pointer]: Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets
+                          - img "Electrolux online support and product registration for home appliances" [ref=e990] [cursor=pointer]
+                      - link "Logo of The Good Mood Food with a smile incorporated in the text Innovating healthy eating with The Good Mood Food The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e991] [cursor=pointer]:
+                        - /url: /our-work/the-good-mood-food/
+                        - generic [ref=e992] [cursor=pointer]:
+                          - generic [ref=e994] [cursor=pointer]:
+                            - img "Logo of The Good Mood Food with a smile incorporated in the text" [ref=e997] [cursor=pointer]
+                            - generic [ref=e998] [cursor=pointer]: Innovating healthy eating with The Good Mood Food
+                          - img "The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e1001] [cursor=pointer]
+                      - link "Maria Nila logo with clock-like circular design and Stockholm text. 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1002] [cursor=pointer]:
+                        - /url: /our-work/marianila-seo/
+                        - generic [ref=e1003] [cursor=pointer]:
+                          - generic [ref=e1005] [cursor=pointer]:
+                            - img "Maria Nila logo with clock-like circular design and Stockholm text." [ref=e1008] [cursor=pointer]
+                            - generic [ref=e1009] [cursor=pointer]: 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services
+                          - img "Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1012] [cursor=pointer]
+                      - link "Panasonic logo in bold white font on a black background High performance and rapid optimization for Panasonic Australia Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1013] [cursor=pointer]:
+                        - /url: /our-work/panasonic-australia/
+                        - generic [ref=e1014] [cursor=pointer]:
+                          - generic [ref=e1016] [cursor=pointer]:
+                            - img "Panasonic logo in bold white font on a black background" [ref=e1019] [cursor=pointer]
+                            - generic [ref=e1020] [cursor=pointer]: High performance and rapid optimization for Panasonic Australia
+                          - img "Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1023] [cursor=pointer]
+                      - link "AEG Delivering an award-winning customer-centric, high-performance website for AEG AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1024] [cursor=pointer]:
+                        - /url: /our-work/aeg-australia/
+                        - generic [ref=e1025] [cursor=pointer]:
+                          - generic [ref=e1027] [cursor=pointer]:
+                            - img "AEG" [ref=e1030] [cursor=pointer]
+                            - generic [ref=e1031] [cursor=pointer]: Delivering an award-winning customer-centric, high-performance website for AEG
+                          - img "AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1034] [cursor=pointer]
+                      - link "Electrolux Harnessing user data for Electrolux with Google Analytics and Google Tag Manager Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1035] [cursor=pointer]:
+                        - /url: /our-work/electrolux-analytics/
+                        - generic [ref=e1036] [cursor=pointer]:
+                          - generic [ref=e1038] [cursor=pointer]:
+                            - img "Electrolux" [ref=e1041] [cursor=pointer]
+                            - generic [ref=e1042] [cursor=pointer]: Harnessing user data for Electrolux with Google Analytics and Google Tag Manager
+                          - img "Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1045] [cursor=pointer]
+                      - link "Altius Group logo with tagline Realize Health Potential on a black background Guiding Altius Group’s digital transformation Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1046] [cursor=pointer]:
+                        - /url: /our-work/altius-group/
+                        - generic [ref=e1047] [cursor=pointer]:
+                          - generic [ref=e1049] [cursor=pointer]:
+                            - img "Altius Group logo with tagline Realize Health Potential on a black background" [ref=e1052] [cursor=pointer]
+                            - generic [ref=e1053] [cursor=pointer]: Guiding Altius Group’s digital transformation
+                          - img "Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1056] [cursor=pointer]
+                      - link "Electrolux logo with a stylized circular icon representing innovation and quality. Managing CMS customization for 11 markets Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1057] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cms/
+                        - generic [ref=e1058] [cursor=pointer]:
+                          - generic [ref=e1060] [cursor=pointer]:
+                            - img "Electrolux logo with a stylized circular icon representing innovation and quality." [ref=e1063] [cursor=pointer]
+                            - generic [ref=e1064] [cursor=pointer]: Managing CMS customization for 11 markets
+                          - img "Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1067] [cursor=pointer]
+                      - link "Digitized collaboration logo with three connected dots forming a leaf shape Integrating the Digizuite DAM into the Optimizely ecosystem DIGIZUITE digital asset management interface showing folders and filters" [ref=e1068] [cursor=pointer]:
+                        - /url: /our-work/digizuite/
+                        - generic [ref=e1069] [cursor=pointer]:
+                          - generic [ref=e1071] [cursor=pointer]:
+                            - img "Digitized collaboration logo with three connected dots forming a leaf shape" [ref=e1074] [cursor=pointer]
+                            - generic [ref=e1075] [cursor=pointer]: Integrating the Digizuite DAM into the Optimizely ecosystem
+                          - img "DIGIZUITE digital asset management interface showing folders and filters" [ref=e1078] [cursor=pointer]
+                      - link "Maria Nila logo with clock design in white, representing Stockholm brand identity Helping Maria Nila take the next step with Magento Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1079] [cursor=pointer]:
+                        - /url: /our-work/marianila/
+                        - generic [ref=e1080] [cursor=pointer]:
+                          - generic [ref=e1082] [cursor=pointer]:
+                            - img "Maria Nila logo with clock design in white, representing Stockholm brand identity" [ref=e1085] [cursor=pointer]
+                            - generic [ref=e1086] [cursor=pointer]: Helping Maria Nila take the next step with Magento
+                          - img "Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1089] [cursor=pointer]
+                      - 'link "LexMod logo with modern, minimalist typography in white on black background LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience Modern living room with a large gray sectional sofa and black pillows" [ref=e1090] [cursor=pointer]':
+                        - /url: /our-work/lexmod/
+                        - generic [ref=e1091] [cursor=pointer]:
+                          - generic [ref=e1093] [cursor=pointer]:
+                            - img "LexMod logo with modern, minimalist typography in white on black background" [ref=e1096] [cursor=pointer]
+                            - generic [ref=e1097] [cursor=pointer]: "LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience"
+                          - img "Modern living room with a large gray sectional sofa and black pillows" [ref=e1100] [cursor=pointer]
+                      - link "De'Longhi Providing full digital services to Commerce powerhouse De’Longhi Group DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1101] [cursor=pointer]:
+                        - /url: /our-work/delonghi/
+                        - generic [ref=e1102] [cursor=pointer]:
+                          - generic [ref=e1104] [cursor=pointer]:
+                            - img "De'Longhi" [ref=e1107] [cursor=pointer]
+                            - generic [ref=e1108] [cursor=pointer]: Providing full digital services to Commerce powerhouse De’Longhi Group
+                          - img "DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1111] [cursor=pointer]
+                      - link "Avensia logo with tagline We synergize Commerce in white on black background Taking care of Avensia around the clock with 24/7 Proactive Response Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1112] [cursor=pointer]:
+                        - /url: /our-work/avensia/
+                        - generic [ref=e1113] [cursor=pointer]:
+                          - generic [ref=e1115] [cursor=pointer]:
+                            - img "Avensia logo with tagline We synergize Commerce in white on black background" [ref=e1118] [cursor=pointer]
+                            - generic [ref=e1119] [cursor=pointer]: Taking care of Avensia around the clock with 24/7 Proactive Response
+                          - img "Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1122] [cursor=pointer]
+                      - link "Transvoice logo with bold white text on a black background Creating “Uber for Translators” from design to deployment Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1123] [cursor=pointer]:
+                        - /url: /our-work/transvoice/
+                        - generic [ref=e1124] [cursor=pointer]:
+                          - generic [ref=e1126] [cursor=pointer]:
+                            - img "Transvoice logo with bold white text on a black background" [ref=e1129] [cursor=pointer]
+                            - generic [ref=e1130] [cursor=pointer]: Creating “Uber for Translators” from design to deployment
+                          - img "Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1133] [cursor=pointer]
+                      - link "CGI white bold letters on black background, representing computer-generated imagery. Creating a messaging solution for schools for CGI The Education Agency's newsroom webpage with infection control and school updates" [ref=e1134] [cursor=pointer]:
+                        - /url: /our-work/cgi/
+                        - generic [ref=e1135] [cursor=pointer]:
+                          - generic [ref=e1137] [cursor=pointer]:
+                            - img "CGI white bold letters on black background, representing computer-generated imagery." [ref=e1140] [cursor=pointer]
+                            - generic [ref=e1141] [cursor=pointer]: Creating a messaging solution for schools for CGI
+                          - img "The Education Agency's newsroom webpage with infection control and school updates" [ref=e1144] [cursor=pointer]
+                      - link "Heineken logo with red star and establishment year 1873 on black background Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1145] [cursor=pointer]:
+                        - /url: /our-work/heineken-ekoin-mini-app/
+                        - generic [ref=e1146] [cursor=pointer]:
+                          - generic [ref=e1148] [cursor=pointer]:
+                            - img "Heineken logo with red star and establishment year 1873 on black background" [ref=e1151] [cursor=pointer]
+                            - generic [ref=e1152] [cursor=pointer]: Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app
+                          - img "Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1155] [cursor=pointer]
+                      - link "Leading Ecommerce transformation for Canada’s largest lingerie retailer" [ref=e1156] [cursor=pointer]:
+                        - /url: /our-work/la-vie-en-rose/
+                        - generic [ref=e1161] [cursor=pointer]: Leading Ecommerce transformation for Canada’s largest lingerie retailer
+                      - link "Primitives by Kathy logo Delivering an AI-powered upgrade for a US Home Décor brand" [ref=e1162] [cursor=pointer]:
+                        - /url: /our-work/primitives-by-kathy/
+                        - generic [ref=e1165] [cursor=pointer]:
+                          - img "Primitives by Kathy logo" [ref=e1168] [cursor=pointer]
+                          - generic [ref=e1169] [cursor=pointer]: Delivering an AI-powered upgrade for a US Home Décor brand
+                    - generic [ref=e1170]:
+                      - link "Electrolux logo with circular emblem and bold white text on black background Powering Electrolux’s email marketing in the APAC and MEA regions Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e1171] [cursor=pointer]:
+                        - /url: /our-work/electrolux-email-marketing-apac-mea/
+                        - generic [ref=e1172] [cursor=pointer]:
+                          - generic [ref=e1174] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold white text on black background" [ref=e1177] [cursor=pointer]
+                            - generic [ref=e1178] [cursor=pointer]: Powering Electrolux’s email marketing in the APAC and MEA regions
+                          - img "Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e1181] [cursor=pointer]
+                      - link "Electrolux logo with circular emblem and bold company name in white text Conversion Rate Optimization leads to better user flows for Electrolux Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e1182] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cro/
+                        - generic [ref=e1183] [cursor=pointer]:
+                          - generic [ref=e1185] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold company name in white text" [ref=e1188] [cursor=pointer]
+                            - generic [ref=e1189] [cursor=pointer]: Conversion Rate Optimization leads to better user flows for Electrolux
+                          - img "Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e1192] [cursor=pointer]
+                      - link "Electrolux logo with stylized symbol and brand name in white on black background 20% more traffic and more conversions with SEO services for 15 Electrolux websites Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e1193] [cursor=pointer]:
+                        - /url: /our-work/electrolux-seo/
+                        - generic [ref=e1194] [cursor=pointer]:
+                          - generic [ref=e1196] [cursor=pointer]:
+                            - img "Electrolux logo with stylized symbol and brand name in white on black background" [ref=e1199] [cursor=pointer]
+                            - generic [ref=e1200] [cursor=pointer]: 20% more traffic and more conversions with SEO services for 15 Electrolux websites
+                          - img "Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e1203] [cursor=pointer]
+                      - link "Electrolux logo with modern design symbolizing innovative home appliances. Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets Electrolux online support and product registration for home appliances" [ref=e1204] [cursor=pointer]:
+                        - /url: /our-work/electrolux-apac-mea/
+                        - generic [ref=e1205] [cursor=pointer]:
+                          - generic [ref=e1207] [cursor=pointer]:
+                            - img "Electrolux logo with modern design symbolizing innovative home appliances." [ref=e1210] [cursor=pointer]
+                            - generic [ref=e1211] [cursor=pointer]: Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets
+                          - img "Electrolux online support and product registration for home appliances" [ref=e1214] [cursor=pointer]
+                      - link "Logo of The Good Mood Food with a smile incorporated in the text Innovating healthy eating with The Good Mood Food The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e1215] [cursor=pointer]:
+                        - /url: /our-work/the-good-mood-food/
+                        - generic [ref=e1216] [cursor=pointer]:
+                          - generic [ref=e1218] [cursor=pointer]:
+                            - img "Logo of The Good Mood Food with a smile incorporated in the text" [ref=e1221] [cursor=pointer]
+                            - generic [ref=e1222] [cursor=pointer]: Innovating healthy eating with The Good Mood Food
+                          - img "The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e1225] [cursor=pointer]
+                      - link "Maria Nila logo with clock-like circular design and Stockholm text. 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1226] [cursor=pointer]:
+                        - /url: /our-work/marianila-seo/
+                        - generic [ref=e1227] [cursor=pointer]:
+                          - generic [ref=e1229] [cursor=pointer]:
+                            - img "Maria Nila logo with clock-like circular design and Stockholm text." [ref=e1232] [cursor=pointer]
+                            - generic [ref=e1233] [cursor=pointer]: 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services
+                          - img "Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1236] [cursor=pointer]
+                      - link "Panasonic logo in bold white font on a black background High performance and rapid optimization for Panasonic Australia Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1237] [cursor=pointer]:
+                        - /url: /our-work/panasonic-australia/
+                        - generic [ref=e1238] [cursor=pointer]:
+                          - generic [ref=e1240] [cursor=pointer]:
+                            - img "Panasonic logo in bold white font on a black background" [ref=e1243] [cursor=pointer]
+                            - generic [ref=e1244] [cursor=pointer]: High performance and rapid optimization for Panasonic Australia
+                          - img "Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1247] [cursor=pointer]
+                      - link "AEG Delivering an award-winning customer-centric, high-performance website for AEG AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1248] [cursor=pointer]:
+                        - /url: /our-work/aeg-australia/
+                        - generic [ref=e1249] [cursor=pointer]:
+                          - generic [ref=e1251] [cursor=pointer]:
+                            - img "AEG" [ref=e1254] [cursor=pointer]
+                            - generic [ref=e1255] [cursor=pointer]: Delivering an award-winning customer-centric, high-performance website for AEG
+                          - img "AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1258] [cursor=pointer]
+                      - link "Electrolux Harnessing user data for Electrolux with Google Analytics and Google Tag Manager Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1259] [cursor=pointer]:
+                        - /url: /our-work/electrolux-analytics/
+                        - generic [ref=e1260] [cursor=pointer]:
+                          - generic [ref=e1262] [cursor=pointer]:
+                            - img "Electrolux" [ref=e1265] [cursor=pointer]
+                            - generic [ref=e1266] [cursor=pointer]: Harnessing user data for Electrolux with Google Analytics and Google Tag Manager
+                          - img "Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1269] [cursor=pointer]
+                      - link "Altius Group logo with tagline Realize Health Potential on a black background Guiding Altius Group’s digital transformation Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1270] [cursor=pointer]:
+                        - /url: /our-work/altius-group/
+                        - generic [ref=e1271] [cursor=pointer]:
+                          - generic [ref=e1273] [cursor=pointer]:
+                            - img "Altius Group logo with tagline Realize Health Potential on a black background" [ref=e1276] [cursor=pointer]
+                            - generic [ref=e1277] [cursor=pointer]: Guiding Altius Group’s digital transformation
+                          - img "Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1280] [cursor=pointer]
+                      - link "Electrolux logo with a stylized circular icon representing innovation and quality. Managing CMS customization for 11 markets Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1281] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cms/
+                        - generic [ref=e1282] [cursor=pointer]:
+                          - generic [ref=e1284] [cursor=pointer]:
+                            - img "Electrolux logo with a stylized circular icon representing innovation and quality." [ref=e1287] [cursor=pointer]
+                            - generic [ref=e1288] [cursor=pointer]: Managing CMS customization for 11 markets
+                          - img "Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1291] [cursor=pointer]
+                      - link "Digitized collaboration logo with three connected dots forming a leaf shape Integrating the Digizuite DAM into the Optimizely ecosystem DIGIZUITE digital asset management interface showing folders and filters" [ref=e1292] [cursor=pointer]:
+                        - /url: /our-work/digizuite/
+                        - generic [ref=e1293] [cursor=pointer]:
+                          - generic [ref=e1295] [cursor=pointer]:
+                            - img "Digitized collaboration logo with three connected dots forming a leaf shape" [ref=e1298] [cursor=pointer]
+                            - generic [ref=e1299] [cursor=pointer]: Integrating the Digizuite DAM into the Optimizely ecosystem
+                          - img "DIGIZUITE digital asset management interface showing folders and filters" [ref=e1302] [cursor=pointer]
+                      - link "Maria Nila logo with clock design in white, representing Stockholm brand identity Helping Maria Nila take the next step with Magento Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1303] [cursor=pointer]:
+                        - /url: /our-work/marianila/
+                        - generic [ref=e1304] [cursor=pointer]:
+                          - generic [ref=e1306] [cursor=pointer]:
+                            - img "Maria Nila logo with clock design in white, representing Stockholm brand identity" [ref=e1309] [cursor=pointer]
+                            - generic [ref=e1310] [cursor=pointer]: Helping Maria Nila take the next step with Magento
+                          - img "Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1313] [cursor=pointer]
+                      - 'link "LexMod logo with modern, minimalist typography in white on black background LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience Modern living room with a large gray sectional sofa and black pillows" [ref=e1314] [cursor=pointer]':
+                        - /url: /our-work/lexmod/
+                        - generic [ref=e1315] [cursor=pointer]:
+                          - generic [ref=e1317] [cursor=pointer]:
+                            - img "LexMod logo with modern, minimalist typography in white on black background" [ref=e1320] [cursor=pointer]
+                            - generic [ref=e1321] [cursor=pointer]: "LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience"
+                          - img "Modern living room with a large gray sectional sofa and black pillows" [ref=e1324] [cursor=pointer]
+                      - link "De'Longhi Providing full digital services to Commerce powerhouse De’Longhi Group DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1325] [cursor=pointer]:
+                        - /url: /our-work/delonghi/
+                        - generic [ref=e1326] [cursor=pointer]:
+                          - generic [ref=e1328] [cursor=pointer]:
+                            - img "De'Longhi" [ref=e1331] [cursor=pointer]
+                            - generic [ref=e1332] [cursor=pointer]: Providing full digital services to Commerce powerhouse De’Longhi Group
+                          - img "DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1335] [cursor=pointer]
+                      - link "Avensia logo with tagline We synergize Commerce in white on black background Taking care of Avensia around the clock with 24/7 Proactive Response Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1336] [cursor=pointer]:
+                        - /url: /our-work/avensia/
+                        - generic [ref=e1337] [cursor=pointer]:
+                          - generic [ref=e1339] [cursor=pointer]:
+                            - img "Avensia logo with tagline We synergize Commerce in white on black background" [ref=e1342] [cursor=pointer]
+                            - generic [ref=e1343] [cursor=pointer]: Taking care of Avensia around the clock with 24/7 Proactive Response
+                          - img "Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1346] [cursor=pointer]
+                      - link "Transvoice logo with bold white text on a black background Creating “Uber for Translators” from design to deployment Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1347] [cursor=pointer]:
+                        - /url: /our-work/transvoice/
+                        - generic [ref=e1348] [cursor=pointer]:
+                          - generic [ref=e1350] [cursor=pointer]:
+                            - img "Transvoice logo with bold white text on a black background" [ref=e1353] [cursor=pointer]
+                            - generic [ref=e1354] [cursor=pointer]: Creating “Uber for Translators” from design to deployment
+                          - img "Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1357] [cursor=pointer]
+                      - link "CGI white bold letters on black background, representing computer-generated imagery. Creating a messaging solution for schools for CGI The Education Agency's newsroom webpage with infection control and school updates" [ref=e1358] [cursor=pointer]:
+                        - /url: /our-work/cgi/
+                        - generic [ref=e1359] [cursor=pointer]:
+                          - generic [ref=e1361] [cursor=pointer]:
+                            - img "CGI white bold letters on black background, representing computer-generated imagery." [ref=e1364] [cursor=pointer]
+                            - generic [ref=e1365] [cursor=pointer]: Creating a messaging solution for schools for CGI
+                          - img "The Education Agency's newsroom webpage with infection control and school updates" [ref=e1368] [cursor=pointer]
+                      - link "Heineken logo with red star and establishment year 1873 on black background Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1369] [cursor=pointer]:
+                        - /url: /our-work/heineken-ekoin-mini-app/
+                        - generic [ref=e1370] [cursor=pointer]:
+                          - generic [ref=e1372] [cursor=pointer]:
+                            - img "Heineken logo with red star and establishment year 1873 on black background" [ref=e1375] [cursor=pointer]
+                            - generic [ref=e1376] [cursor=pointer]: Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app
+                          - img "Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1379] [cursor=pointer]
+                      - link "Leading Ecommerce transformation for Canada’s largest lingerie retailer" [ref=e1380] [cursor=pointer]:
+                        - /url: /our-work/la-vie-en-rose/
+                        - generic [ref=e1385] [cursor=pointer]: Leading Ecommerce transformation for Canada’s largest lingerie retailer
+                      - link "Primitives by Kathy logo Delivering an AI-powered upgrade for a US Home Décor brand" [ref=e1386] [cursor=pointer]:
+                        - /url: /our-work/primitives-by-kathy/
+                        - generic [ref=e1389] [cursor=pointer]:
+                          - img "Primitives by Kathy logo" [ref=e1392] [cursor=pointer]
+                          - generic [ref=e1393] [cursor=pointer]: Delivering an AI-powered upgrade for a US Home Décor brand
+                    - generic [ref=e1394]:
+                      - link "Electrolux logo with circular emblem and bold white text on black background Powering Electrolux’s email marketing in the APAC and MEA regions Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e1395] [cursor=pointer]:
+                        - /url: /our-work/electrolux-email-marketing-apac-mea/
+                        - generic [ref=e1396] [cursor=pointer]:
+                          - generic [ref=e1398] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold white text on black background" [ref=e1401] [cursor=pointer]
+                            - generic [ref=e1402] [cursor=pointer]: Powering Electrolux’s email marketing in the APAC and MEA regions
+                          - img "Electrolux email showing kitchen accessories to enhance oven use and promotions" [ref=e1405] [cursor=pointer]
+                      - link "Electrolux logo with circular emblem and bold company name in white text Conversion Rate Optimization leads to better user flows for Electrolux Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e1406] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cro/
+                        - generic [ref=e1407] [cursor=pointer]:
+                          - generic [ref=e1409] [cursor=pointer]:
+                            - img "Electrolux logo with circular emblem and bold company name in white text" [ref=e1412] [cursor=pointer]
+                            - generic [ref=e1413] [cursor=pointer]: Conversion Rate Optimization leads to better user flows for Electrolux
+                          - img "Electrolux online store benefits on mobile screens showing free trial and shipping" [ref=e1416] [cursor=pointer]
+                      - link "Electrolux logo with stylized symbol and brand name in white on black background 20% more traffic and more conversions with SEO services for 15 Electrolux websites Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e1417] [cursor=pointer]:
+                        - /url: /our-work/electrolux-seo/
+                        - generic [ref=e1418] [cursor=pointer]:
+                          - generic [ref=e1420] [cursor=pointer]:
+                            - img "Electrolux logo with stylized symbol and brand name in white on black background" [ref=e1423] [cursor=pointer]
+                            - generic [ref=e1424] [cursor=pointer]: 20% more traffic and more conversions with SEO services for 15 Electrolux websites
+                          - img "Electrolux website shown on laptop and mobile screens with appliance categories and offers" [ref=e1427] [cursor=pointer]
+                      - link "Electrolux logo with modern design symbolizing innovative home appliances. Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets Electrolux online support and product registration for home appliances" [ref=e1428] [cursor=pointer]:
+                        - /url: /our-work/electrolux-apac-mea/
+                        - generic [ref=e1429] [cursor=pointer]:
+                          - generic [ref=e1431] [cursor=pointer]:
+                            - img "Electrolux logo with modern design symbolizing innovative home appliances." [ref=e1434] [cursor=pointer]
+                            - generic [ref=e1435] [cursor=pointer]: Designing & building an adaptable Commerce website for Electrolux’s APAC and MEA markets
+                          - img "Electrolux online support and product registration for home appliances" [ref=e1438] [cursor=pointer]
+                      - link "Logo of The Good Mood Food with a smile incorporated in the text Innovating healthy eating with The Good Mood Food The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e1439] [cursor=pointer]:
+                        - /url: /our-work/the-good-mood-food/
+                        - generic [ref=e1440] [cursor=pointer]:
+                          - generic [ref=e1442] [cursor=pointer]:
+                            - img "Logo of The Good Mood Food with a smile incorporated in the text" [ref=e1445] [cursor=pointer]
+                            - generic [ref=e1446] [cursor=pointer]: Innovating healthy eating with The Good Mood Food
+                          - img "The Good Mood Food homepage with colorful fruits and vegetables promoting mood-boosting foods" [ref=e1449] [cursor=pointer]
+                      - link "Maria Nila logo with clock-like circular design and Stockholm text. 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1450] [cursor=pointer]:
+                        - /url: /our-work/marianila-seo/
+                        - generic [ref=e1451] [cursor=pointer]:
+                          - generic [ref=e1453] [cursor=pointer]:
+                            - img "Maria Nila logo with clock-like circular design and Stockholm text." [ref=e1456] [cursor=pointer]
+                            - generic [ref=e1457] [cursor=pointer]: 34% more traffic for Maria Nila thanks to Niteco's multilingual SEO services
+                          - img "Professional vegan haircare website showcasing hair care routine and argan oil product." [ref=e1460] [cursor=pointer]
+                      - link "Panasonic logo in bold white font on a black background High performance and rapid optimization for Panasonic Australia Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1461] [cursor=pointer]:
+                        - /url: /our-work/panasonic-australia/
+                        - generic [ref=e1462] [cursor=pointer]:
+                          - generic [ref=e1464] [cursor=pointer]:
+                            - img "Panasonic logo in bold white font on a black background" [ref=e1467] [cursor=pointer]
+                            - generic [ref=e1468] [cursor=pointer]: High performance and rapid optimization for Panasonic Australia
+                          - img "Panasonic stylish kitchen appliances with rice cooker, oven, and refrigerator designs" [ref=e1471] [cursor=pointer]
+                      - link "AEG Delivering an award-winning customer-centric, high-performance website for AEG AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1472] [cursor=pointer]:
+                        - /url: /our-work/aeg-australia/
+                        - generic [ref=e1473] [cursor=pointer]:
+                          - generic [ref=e1475] [cursor=pointer]:
+                            - img "AEG" [ref=e1478] [cursor=pointer]
+                            - generic [ref=e1479] [cursor=pointer]: Delivering an award-winning customer-centric, high-performance website for AEG
+                          - img "AEG dishwashing and laundry appliances with advanced features and sleek design" [ref=e1482] [cursor=pointer]
+                      - link "Electrolux Harnessing user data for Electrolux with Google Analytics and Google Tag Manager Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1483] [cursor=pointer]:
+                        - /url: /our-work/electrolux-analytics/
+                        - generic [ref=e1484] [cursor=pointer]:
+                          - generic [ref=e1486] [cursor=pointer]:
+                            - img "Electrolux" [ref=e1489] [cursor=pointer]
+                            - generic [ref=e1490] [cursor=pointer]: Harnessing user data for Electrolux with Google Analytics and Google Tag Manager
+                          - img "Washing Machines category showcasing UltimateCare™ 900 and 800 models with features" [ref=e1493] [cursor=pointer]
+                      - link "Altius Group logo with tagline Realize Health Potential on a black background Guiding Altius Group’s digital transformation Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1494] [cursor=pointer]:
+                        - /url: /our-work/altius-group/
+                        - generic [ref=e1495] [cursor=pointer]:
+                          - generic [ref=e1497] [cursor=pointer]:
+                            - img "Altius Group logo with tagline Realize Health Potential on a black background" [ref=e1500] [cursor=pointer]
+                            - generic [ref=e1501] [cursor=pointer]: Guiding Altius Group’s digital transformation
+                          - img "Altius Group team collaborating on organisational psychology solutions for workplace" [ref=e1504] [cursor=pointer]
+                      - link "Electrolux logo with a stylized circular icon representing innovation and quality. Managing CMS customization for 11 markets Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1505] [cursor=pointer]:
+                        - /url: /our-work/electrolux-cms/
+                        - generic [ref=e1506] [cursor=pointer]:
+                          - generic [ref=e1508] [cursor=pointer]:
+                            - img "Electrolux logo with a stylized circular icon representing innovation and quality." [ref=e1511] [cursor=pointer]
+                            - generic [ref=e1512] [cursor=pointer]: Managing CMS customization for 11 markets
+                          - img "Electrolux website homepage showcasing appliances and 11kg UltimateCare 900 washing machine." [ref=e1515] [cursor=pointer]
+                      - link "Digitized collaboration logo with three connected dots forming a leaf shape Integrating the Digizuite DAM into the Optimizely ecosystem DIGIZUITE digital asset management interface showing folders and filters" [ref=e1516] [cursor=pointer]:
+                        - /url: /our-work/digizuite/
+                        - generic [ref=e1517] [cursor=pointer]:
+                          - generic [ref=e1519] [cursor=pointer]:
+                            - img "Digitized collaboration logo with three connected dots forming a leaf shape" [ref=e1522] [cursor=pointer]
+                            - generic [ref=e1523] [cursor=pointer]: Integrating the Digizuite DAM into the Optimizely ecosystem
+                          - img "DIGIZUITE digital asset management interface showing folders and filters" [ref=e1526] [cursor=pointer]
+                      - link "Maria Nila logo with clock design in white, representing Stockholm brand identity Helping Maria Nila take the next step with Magento Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1527] [cursor=pointer]:
+                        - /url: /our-work/marianila/
+                        - generic [ref=e1528] [cursor=pointer]:
+                          - generic [ref=e1530] [cursor=pointer]:
+                            - img "Maria Nila logo with clock design in white, representing Stockholm brand identity" [ref=e1533] [cursor=pointer]
+                            - generic [ref=e1534] [cursor=pointer]: Helping Maria Nila take the next step with Magento
+                          - img "Beauty bags with skincare products in pastel colors displayed on sandy background" [ref=e1537] [cursor=pointer]
+                      - 'link "LexMod logo with modern, minimalist typography in white on black background LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience Modern living room with a large gray sectional sofa and black pillows" [ref=e1538] [cursor=pointer]':
+                        - /url: /our-work/lexmod/
+                        - generic [ref=e1539] [cursor=pointer]:
+                          - generic [ref=e1541] [cursor=pointer]:
+                            - img "LexMod logo with modern, minimalist typography in white on black background" [ref=e1544] [cursor=pointer]
+                            - generic [ref=e1545] [cursor=pointer]: "LexMod: Optimizely Website Upgrade & Enhanced Mobile Experience"
+                          - img "Modern living room with a large gray sectional sofa and black pillows" [ref=e1548] [cursor=pointer]
+                      - link "De'Longhi Providing full digital services to Commerce powerhouse De’Longhi Group DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1549] [cursor=pointer]:
+                        - /url: /our-work/delonghi/
+                        - generic [ref=e1550] [cursor=pointer]:
+                          - generic [ref=e1552] [cursor=pointer]:
+                            - img "De'Longhi" [ref=e1555] [cursor=pointer]
+                            - generic [ref=e1556] [cursor=pointer]: Providing full digital services to Commerce powerhouse De’Longhi Group
+                          - img "DeLonghi kitchen appliances including coffee maker, toaster, and kettle on counter" [ref=e1559] [cursor=pointer]
+                      - link "Avensia logo with tagline We synergize Commerce in white on black background Taking care of Avensia around the clock with 24/7 Proactive Response Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1560] [cursor=pointer]:
+                        - /url: /our-work/avensia/
+                        - generic [ref=e1561] [cursor=pointer]:
+                          - generic [ref=e1563] [cursor=pointer]:
+                            - img "Avensia logo with tagline We synergize Commerce in white on black background" [ref=e1566] [cursor=pointer]
+                            - generic [ref=e1567] [cursor=pointer]: Taking care of Avensia around the clock with 24/7 Proactive Response
+                          - img "Cybersecurity team monitors multiple dashboards and screens in real-time operations room" [ref=e1570] [cursor=pointer]
+                      - link "Transvoice logo with bold white text on a black background Creating “Uber for Translators” from design to deployment Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1571] [cursor=pointer]:
+                        - /url: /our-work/transvoice/
+                        - generic [ref=e1572] [cursor=pointer]:
+                          - generic [ref=e1574] [cursor=pointer]:
+                            - img "Transvoice logo with bold white text on a black background" [ref=e1577] [cursor=pointer]
+                            - generic [ref=e1578] [cursor=pointer]: Creating “Uber for Translators” from design to deployment
+                          - img "Tolka welcome screen with Get Started button and travel route tracking map" [ref=e1581] [cursor=pointer]
+                      - link "CGI white bold letters on black background, representing computer-generated imagery. Creating a messaging solution for schools for CGI The Education Agency's newsroom webpage with infection control and school updates" [ref=e1582] [cursor=pointer]:
+                        - /url: /our-work/cgi/
+                        - generic [ref=e1583] [cursor=pointer]:
+                          - generic [ref=e1585] [cursor=pointer]:
+                            - img "CGI white bold letters on black background, representing computer-generated imagery." [ref=e1588] [cursor=pointer]
+                            - generic [ref=e1589] [cursor=pointer]: Creating a messaging solution for schools for CGI
+                          - img "The Education Agency's newsroom webpage with infection control and school updates" [ref=e1592] [cursor=pointer]
+                      - link "Heineken logo with red star and establishment year 1873 on black background Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1593] [cursor=pointer]:
+                        - /url: /our-work/heineken-ekoin-mini-app/
+                        - generic [ref=e1594] [cursor=pointer]:
+                          - generic [ref=e1596] [cursor=pointer]:
+                            - img "Heineken logo with red star and establishment year 1873 on black background" [ref=e1599] [cursor=pointer]
+                            - generic [ref=e1600] [cursor=pointer]: Elevate Heineken Vietnam's consumer engagement with an award-winning loyalty app
+                          - img "Mobile app screen showing eKoin QR code payment and gift rewards like SH 160i scooter and iPhone 15." [ref=e1603] [cursor=pointer]
+                      - link "Leading Ecommerce transformation for Canada’s largest lingerie retailer" [ref=e1604] [cursor=pointer]:
+                        - /url: /our-work/la-vie-en-rose/
+                        - generic [ref=e1609] [cursor=pointer]: Leading Ecommerce transformation for Canada’s largest lingerie retailer
+                      - link "Primitives by Kathy logo Delivering an AI-powered upgrade for a US Home Décor brand" [ref=e1610] [cursor=pointer]:
+                        - /url: /our-work/primitives-by-kathy/
+                        - generic [ref=e1613] [cursor=pointer]:
+                          - img "Primitives by Kathy logo" [ref=e1616] [cursor=pointer]
+                          - generic [ref=e1617] [cursor=pointer]: Delivering an AI-powered upgrade for a US Home Décor brand
+                    - link "northshore logo Building a D2C retail channel for an iconic US hygiene care products brand northshore case study" [ref=e1618] [cursor=pointer]:
+                      - /url: /our-work/northshore-care-supply/
+                      - generic [ref=e1620] [cursor=pointer]:
+                        - img "northshore logo" [ref=e1623] [cursor=pointer]
+                        - generic [ref=e1624] [cursor=pointer]: Building a D2C retail channel for an iconic US hygiene care products brand
+                      - img "northshore case study" [ref=e1626] [cursor=pointer]
+                  - link "More case studies +" [ref=e1628] [cursor=pointer]:
+                    - /url: /our-work/
+                - generic [ref=e1631]:
+                  - generic:
+                    - img "Skyscrapers with modern glass windows towering in a city skyline at dusk"
+                  - generic [ref=e1634]:
+                    - generic [ref=e1636]:
+                      - generic [ref=e1638]: Niteco’s SEO team is a diligent group of SEO specialists who are willing to adapt their workflows to new challenges and changing expectations. They are able to execute tasks within deadlines consistently, while their data analyses help us make well-informed decisions to drive organic growth.
+                      - generic [ref=e1640]:
+                        - img "logo" [ref=e1643]
+                        - generic [ref=e1644]:
+                          - generic [ref=e1645]: Phuwit Limviphuwat
+                          - generic [ref=e1646]: SEO Manager - Electrolux APAC & MEA
+                    - generic [ref=e1648]:
+                      - generic [ref=e1650]: "Niteco has been a fantastic Agency to work with. We're very pleased with how the new AEG ANZ websites have shaped up, maintaining the brand's premium visual identity in a very tight deadline. The site is already performing well with increased search visibility across all categories. Two things in particular about their service are exceptional: speedy email response and their expertise in the Optimizely platform."
+                      - generic [ref=e1652]:
+                        - img "logo" [ref=e1655]
+                        - generic [ref=e1656]:
+                          - generic [ref=e1657]: Sujeeta Dangol
+                          - generic [ref=e1658]: Digital Project Manager
+                    - generic [ref=e1660]:
+                      - generic [ref=e1662]: Niteco has been, and continues to be, a great partner, for the launch of our multiple direct to consumer Commerce platforms across APAC & MEA. Their team’s expertise with Optimizely has been undeniably essential for our projects and they have gone above and beyond to support us with all other system integrations we needed. The team knows our business processes well enough to advise us on the best technical solutions and delivers on tight schedules.
+                      - generic [ref=e1664]:
+                        - img "logo" [ref=e1667]
+                        - generic [ref=e1668]:
+                          - generic [ref=e1669]: Karen El Khoury
+                          - generic [ref=e1670]: D2C Program Manager – APAC & MEA
+                    - generic [ref=e1672]:
+                      - generic [ref=e1674]: Niteco supported us in achieving important steps on our journey of digital transformation. Their designers showed a keen eye for what is essential and understood clearly what we wanted to achieve.
+                      - generic [ref=e1676]:
+                        - img "logo" [ref=e1679]
+                        - generic [ref=e1680]:
+                          - generic [ref=e1681]: Peter Haglund
+                          - generic [ref=e1682]: Business Development and IT - Transvoice
+                    - generic [ref=e1684]:
+                      - generic [ref=e1686]: Our cooperation with Niteco was an invaluable advantage as we were taking the next step with Magento. Now that the site is live, we’re glad that we can continue our working relationship to make Maria Nila the best it can be.
+                      - generic [ref=e1688]:
+                        - img "logo" [ref=e1691]
+                        - generic [ref=e1692]:
+                          - generic [ref=e1693]: Malin Wallenius
+                          - generic [ref=e1694]: Commerce Manager - Maria Nila
+                    - generic [ref=e1696]:
+                      - generic [ref=e1698]: Niteco's services help us in being a professional global player offering 24/7 support to our customers. Niteco helped us avoid downtimes and is a great extension to our team. Just as important are their proactive initiatives that help us to improve further.
+                      - generic [ref=e1700]:
+                        - img "logo" [ref=e1703]
+                        - generic [ref=e1704]:
+                          - generic [ref=e1705]: Roger Karlsson
+                          - generic [ref=e1706]: Director of Operations - Avensia
+                    - generic [ref=e1708]:
+                      - generic [ref=e1710]: Niteco is an Optimizely preferred vendor which has many Optimizely experts in their management team and architect team. Niteco’s concept of having one person here and a team in Hanoi is cost effective. We have very transparent dialogues and we’ve built a lot of trust between us and Niteco.
+                      - generic [ref=e1712]:
+                        - img "logo" [ref=e1715]
+                        - generic [ref=e1716]:
+                          - generic [ref=e1717]: Daniel Nyberg
+                          - generic [ref=e1718]: Marketing Technologist - Bisnode
+                    - generic [ref=e1720]:
+                      - generic [ref=e1722]: Niteco was a given choice when it came to developing Digizuite’s Optimizely connector; because Niteco has a reputation for understanding strategy and being efficient, and they came highly recommended. Digizuite was striving for a seamless Optimizely connector that puts content in the heart of CMS, and that is exactly what we got!
+                      - generic [ref=e1724]:
+                        - img "logo" [ref=e1727]
+                        - generic [ref=e1728]:
+                          - generic [ref=e1729]: Anna Lergaard
+                          - generic [ref=e1730]: CMO - Digizuite
+                    - generic [ref=e1732]:
+                      - generic [ref=e1734]: Niteco is a trusted partner of Optimizely with evident technical expertise in Optimizely and web technologies in general, which is not an easy feat to find in the APAC region. Projects are cost-efficient but still delivered to the highest quality. The team has a great working attitude & a long-term partnership mentality.
+                      - generic [ref=e1736]:
+                        - img "logo" [ref=e1739]
+                        - generic [ref=e1740]:
+                          - generic [ref=e1741]: Yuliana Sadeli
+                          - generic [ref=e1742]: Digital Program Manager - Electrolux
+                    - generic [ref=e1744]:
+                      - generic [ref=e1746]: I formed a great partnership with Niteco on our Conversion Rate Optimization project, and their dedication to this project is truly appreciated. By coming up with creative A/B tests that tackle our customers' pain points, we've seen a significant improvement in our sites' user experience and conversion rate. It's also very easy to work with them, flexible, and go beyond their scope, as they always keep me up to date on what's going on. It's so true that "when you work with the right people, it frees you up." I would recommend Niteco to anyone I know.
+                      - generic [ref=e1748]:
+                        - img "logo" [ref=e1751]
+                        - generic [ref=e1752]:
+                          - generic [ref=e1753]: Zhenbei Li
+                          - generic [ref=e1754]: Digital Manager APAC & MEA – Electrolux
+                    - generic [ref=e1756]:
+                      - generic [ref=e1758]: Thank you Niteco team for your great support and efficient implementation of our digital loyalty initiatives. From triggered emails to ratings and reviews programs, your dedication to continual improvement helps us provide our consumers with a great post-purchase experience.
+                      - generic [ref=e1760]:
+                        - img "logo" [ref=e1763]
+                        - generic [ref=e1764]:
+                          - generic [ref=e1765]: Agape Pappas
+                          - generic [ref=e1766]: Loyalty Marketing Manager - Electrolux ANZ
+                    - generic [ref=e1768]:
+                      - generic [ref=e1770]: Niteco’s SEO team is a diligent group of SEO specialists who are willing to adapt their workflows to new challenges and changing expectations. They are able to execute tasks within deadlines consistently, while their data analyses help us make well-informed decisions to drive organic growth.
+                      - generic [ref=e1772]:
+                        - img "logo" [ref=e1775]
+                        - generic [ref=e1776]:
+                          - generic [ref=e1777]: Phuwit Limviphuwat
+                          - generic [ref=e1778]: SEO Manager - Electrolux APAC & MEA
+                    - generic [ref=e1780]:
+                      - generic [ref=e1782]: "Niteco has been a fantastic Agency to work with. We're very pleased with how the new AEG ANZ websites have shaped up, maintaining the brand's premium visual identity in a very tight deadline. The site is already performing well with increased search visibility across all categories. Two things in particular about their service are exceptional: speedy email response and their expertise in the Optimizely platform."
+                      - generic [ref=e1784]:
+                        - img "logo" [ref=e1787]
+                        - generic [ref=e1788]:
+                          - generic [ref=e1789]: Sujeeta Dangol
+                          - generic [ref=e1790]: Digital Project Manager
+                - generic [ref=e1805]:
+                  - paragraph [ref=e1808]: The latest
+                  - generic [ref=e1809]: Check out the latest news around Niteco and read what our experts have to say about today’s digital space.
+                  - generic [ref=e1810]:
+                    - generic [ref=e1811]:
+                      - link "Meet Niteco at Opticon 2025 in New York & London" [ref=e1813] [cursor=pointer]:
+                        - /url: /articles/meet-niteco-at-opticon-2025-in-new-york-london/
+                        - img "Meet Niteco at Opticon 2025 in New York & London" [ref=e1815] [cursor=pointer]
+                      - link "Meet Niteco at Opticon 2025 in New York & London" [ref=e1819] [cursor=pointer]:
+                        - /url: /articles/meet-niteco-at-opticon-2025-in-new-york-london/
+                    - generic [ref=e1820]:
+                      - generic [ref=e1823]:
+                        - 'link "Enhancing the customer journey through conversion funnels: Practical optimization tips" [ref=e1825] [cursor=pointer]':
+                          - /url: /articles/conversion-funnel-optimization-tips/
+                        - img "Magnifying glass over conversion funnel and charts with text about customer journey tips." [ref=e1828]
+                      - generic [ref=e1831]:
+                        - link "How Optimizely Content Marketing Platform elevates marketing efficiency" [ref=e1833] [cursor=pointer]:
+                          - /url: /articles/improve-marketing-efficiency-optimizely-cmp/
+                        - img "Banner advertising Optimizely Content Marketing Platform to improve marketing efficiency." [ref=e1836]
+                      - generic [ref=e1839]:
+                        - generic [ref=e1840]:
+                          - generic [ref=e1841]: CRO
+                          - link "Leveraging data-driven insights to enhance your conversion rate" [ref=e1842] [cursor=pointer]:
+                            - /url: /articles/data-driven-cro-strategy/
+                        - img "Illustration of person launching rocket from laptop with text about data-driven insights." [ref=e1845]
+                  - link "Read all articles +" [ref=e1847] [cursor=pointer]:
+                    - /url: /articles/
+                - generic [ref=e1850]:
+                  - heading "Our clients" [level=2] [ref=e1851]
+                  - generic [ref=e1852]: We work with numerous global brands across diverse sectors. Here are just a few of our clients.
+                  - generic [ref=e1853]:
+                    - generic [ref=e1854]:
+                      - group "3 / 3" [ref=e1855]:
+                        - link "Evo" [ref=e1856] [cursor=pointer]:
+                          - /url: /partners/gauvin-group/
+                          - img "Evo" [ref=e1858] [cursor=pointer]
+                        - link "Hair Care Group" [ref=e1859] [cursor=pointer]:
+                          - /url: /partners/gauvin-group/
+                          - img "Hair Care Group" [ref=e1861] [cursor=pointer]
+                        - link "Privata Affarer" [ref=e1862] [cursor=pointer]:
+                          - /url: /our-work/privata-affarer/
+                          - img "Privata Affarer" [ref=e1864] [cursor=pointer]
+                        - link "The Good Mood Food" [ref=e1865] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/the-good-mood-food/
+                          - img "The Good Mood Food" [ref=e1867] [cursor=pointer]
+                        - link "Dagens Nyheter" [ref=e1868] [cursor=pointer]:
+                          - /url: /our-work/?q=dagens%2bnyheter
+                          - img "Dagens Nyheter" [ref=e1870] [cursor=pointer]
+                        - link "Digizuite" [ref=e1871] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/digizuite/
+                          - img "Digizuite" [ref=e1873] [cursor=pointer]
+                        - img "AnalogFolk" [ref=e1876]
+                        - link "Braun" [ref=e1877] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/braun/
+                          - img "Braun" [ref=e1879] [cursor=pointer]
+                        - link "adairs" [ref=e1880] [cursor=pointer]:
+                          - /url: /partners/adairs/
+                          - img "adairs" [ref=e1882] [cursor=pointer]
+                        - link "Kenwood" [ref=e1883] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/kenwood/
+                          - img "Kenwood" [ref=e1885] [cursor=pointer]
+                      - group "1 / 3" [ref=e1886]:
+                        - link "Heineken" [ref=e1887] [cursor=pointer]:
+                          - /url: /our-work/heineken/
+                          - img "Heineken" [ref=e1889] [cursor=pointer]
+                        - link "Electrolux" [ref=e1890] [cursor=pointer]:
+                          - /url: /our-work/?q=electrolux
+                          - img "Electrolux" [ref=e1892] [cursor=pointer]
+                        - link "Delonghi" [ref=e1893] [cursor=pointer]:
+                          - /url: /our-work/our-work/delonghi/
+                          - img "Delonghi" [ref=e1895] [cursor=pointer]
+                        - link "Panasonic" [ref=e1896] [cursor=pointer]:
+                          - /url: /our-work/our-work/panasonic-australia/
+                          - img "Panasonic" [ref=e1898] [cursor=pointer]
+                        - link "Rebel Sport" [ref=e1899] [cursor=pointer]:
+                          - /url: /partners/briscoegroup/
+                          - img "Rebel Sport" [ref=e1901] [cursor=pointer]
+                        - link "Wilson Parking" [ref=e1902] [cursor=pointer]:
+                          - /url: /partners/wilson-group/
+                          - img "Wilson Parking" [ref=e1904] [cursor=pointer]
+                        - img "Westinghouse" [ref=e1907]
+                        - link "aeg" [ref=e1908] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/aeg-australia/
+                          - img "aeg" [ref=e1910] [cursor=pointer]
+                        - link "MLA" [ref=e1911] [cursor=pointer]:
+                          - /url: /partners/mla/
+                          - img "MLA" [ref=e1913] [cursor=pointer]
+                        - link "Briscoes" [ref=e1914] [cursor=pointer]:
+                          - /url: /partners/briscoegroup/
+                          - img "Briscoes" [ref=e1916] [cursor=pointer]
+                        - link "Vintec" [ref=e1917] [cursor=pointer]:
+                          - /url: /our-work/vintec/
+                          - img "Vintec" [ref=e1919] [cursor=pointer]
+                        - link "Altius" [ref=e1920] [cursor=pointer]:
+                          - /url: /our-work/altius-group/
+                          - img "Altius" [ref=e1922] [cursor=pointer]
+                        - link "High" [ref=e1923] [cursor=pointer]:
+                          - /url: /our-work/high/
+                          - img "High" [ref=e1925] [cursor=pointer]
+                        - img "Tiger" [ref=e1928]
+                        - img "Hort Innovation" [ref=e1931]
+                        - link "LexMod" [ref=e1932] [cursor=pointer]:
+                          - /url: /our-work/lexmod
+                          - img "LexMod" [ref=e1934] [cursor=pointer]
+                      - group "2 / 3" [ref=e1935]:
+                        - link "NZ Waste Management" [ref=e1936] [cursor=pointer]:
+                          - /url: /partners/waste-management/
+                          - img "NZ Waste Management" [ref=e1938] [cursor=pointer]
+                        - link "Bisnode" [ref=e1939] [cursor=pointer]:
+                          - /url: /our-work/bisnode/
+                          - img "Bisnode" [ref=e1941] [cursor=pointer]
+                        - link "Ahum" [ref=e1942] [cursor=pointer]:
+                          - /url: /our-work/ahum/
+                          - img "Ahum" [ref=e1944] [cursor=pointer]
+                        - link "Wilson Security" [ref=e1945] [cursor=pointer]:
+                          - /url: /partners/wilson-group/
+                          - img "Wilson Security" [ref=e1947] [cursor=pointer]
+                        - link "Peters of Kensington" [ref=e1948] [cursor=pointer]:
+                          - /url: /partners/peters-of-kensington/
+                          - img "Peters of Kensington" [ref=e1950] [cursor=pointer]
+                        - img "Laerdal" [ref=e1953]
+                        - link "Ingegrity Systems (MLA)" [ref=e1954] [cursor=pointer]:
+                          - /url: /partners/mla/
+                          - img "Ingegrity Systems (MLA)" [ref=e1956] [cursor=pointer]
+                        - link "Northshore Care" [ref=e1957] [cursor=pointer]:
+                          - /url: /our-work/?q=northshore%2bcare
+                          - img "Northshore Care" [ref=e1959] [cursor=pointer]
+                        - img "Beefeater" [ref=e1962]
+                        - link "Perth Mint" [ref=e1963] [cursor=pointer]:
+                          - /url: /partners/perthmint/
+                          - img "Perth Mint" [ref=e1965] [cursor=pointer]
+                        - link "Maria Nila" [ref=e1966] [cursor=pointer]:
+                          - /url: /our-work/?q=maria-nila
+                          - img "Maria Nila" [ref=e1968] [cursor=pointer]
+                        - link "Flexibin" [ref=e1969] [cursor=pointer]:
+                          - /url: /partners/waste-management/
+                          - img "Flexibin" [ref=e1971] [cursor=pointer]
+                        - link "Steadfast" [ref=e1972] [cursor=pointer]:
+                          - /url: /partners/steadfast/
+                          - img "Steadfast" [ref=e1974] [cursor=pointer]
+                        - link "LVE" [ref=e1975] [cursor=pointer]:
+                          - /url: /partners/la-vie-en-rose-bikini-village/
+                          - img "LVE" [ref=e1977] [cursor=pointer]
+                        - link "Bikini Village" [ref=e1978] [cursor=pointer]:
+                          - /url: /partners/la-vie-en-rose-bikini-village/
+                          - img "Bikini Village" [ref=e1980] [cursor=pointer]
+                        - img "Zanussi" [ref=e1983]
+                      - group "3 / 3" [ref=e1984]:
+                        - link "Evo" [ref=e1985] [cursor=pointer]:
+                          - /url: /partners/gauvin-group/
+                          - img "Evo" [ref=e1987] [cursor=pointer]
+                        - link "Hair Care Group" [ref=e1988] [cursor=pointer]:
+                          - /url: /partners/gauvin-group/
+                          - img "Hair Care Group" [ref=e1990] [cursor=pointer]
+                        - link "Privata Affarer" [ref=e1991] [cursor=pointer]:
+                          - /url: /our-work/privata-affarer/
+                          - img "Privata Affarer" [ref=e1993] [cursor=pointer]
+                        - link "The Good Mood Food" [ref=e1994] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/the-good-mood-food/
+                          - img "The Good Mood Food" [ref=e1996] [cursor=pointer]
+                        - link "Dagens Nyheter" [ref=e1997] [cursor=pointer]:
+                          - /url: /our-work/?q=dagens%2bnyheter
+                          - img "Dagens Nyheter" [ref=e1999] [cursor=pointer]
+                        - link "Digizuite" [ref=e2000] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/digizuite/
+                          - img "Digizuite" [ref=e2002] [cursor=pointer]
+                        - img "AnalogFolk" [ref=e2005]
+                        - link "Braun" [ref=e2006] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/braun/
+                          - img "Braun" [ref=e2008] [cursor=pointer]
+                        - link "adairs" [ref=e2009] [cursor=pointer]:
+                          - /url: /partners/adairs/
+                          - img "adairs" [ref=e2011] [cursor=pointer]
+                        - link "Kenwood" [ref=e2012] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/kenwood/
+                          - img "Kenwood" [ref=e2014] [cursor=pointer]
+                      - group "1 / 3" [ref=e2015]:
+                        - link "Heineken" [ref=e2016] [cursor=pointer]:
+                          - /url: /our-work/heineken/
+                          - img "Heineken" [ref=e2018] [cursor=pointer]
+                        - link "Electrolux" [ref=e2019] [cursor=pointer]:
+                          - /url: /our-work/?q=electrolux
+                          - img "Electrolux" [ref=e2021] [cursor=pointer]
+                        - link "Delonghi" [ref=e2022] [cursor=pointer]:
+                          - /url: /our-work/our-work/delonghi/
+                          - img "Delonghi" [ref=e2024] [cursor=pointer]
+                        - link "Panasonic" [ref=e2025] [cursor=pointer]:
+                          - /url: /our-work/our-work/panasonic-australia/
+                          - img "Panasonic" [ref=e2027] [cursor=pointer]
+                        - link "Rebel Sport" [ref=e2028] [cursor=pointer]:
+                          - /url: /partners/briscoegroup/
+                          - img "Rebel Sport" [ref=e2030] [cursor=pointer]
+                        - link "Wilson Parking" [ref=e2031] [cursor=pointer]:
+                          - /url: /partners/wilson-group/
+                          - img "Wilson Parking" [ref=e2033] [cursor=pointer]
+                        - img "Westinghouse" [ref=e2036]
+                        - link "aeg" [ref=e2037] [cursor=pointer]:
+                          - /url: https://niteco.com/our-work/aeg-australia/
+                          - img "aeg" [ref=e2039] [cursor=pointer]
+                        - link "MLA" [ref=e2040] [cursor=pointer]:
+                          - /url: /partners/mla/
+                          - img "MLA" [ref=e2042] [cursor=pointer]
+                        - link "Briscoes" [ref=e2043] [cursor=pointer]:
+                          - /url: /partners/briscoegroup/
+                          - img "Briscoes" [ref=e2045] [cursor=pointer]
+                        - link "Vintec" [ref=e2046] [cursor=pointer]:
+                          - /url: /our-work/vintec/
+                          - img "Vintec" [ref=e2048] [cursor=pointer]
+                        - link "Altius" [ref=e2049] [cursor=pointer]:
+                          - /url: /our-work/altius-group/
+                          - img "Altius" [ref=e2051] [cursor=pointer]
+                        - link "High" [ref=e2052] [cursor=pointer]:
+                          - /url: /our-work/high/
+                          - img "High" [ref=e2054] [cursor=pointer]
+                        - img "Tiger" [ref=e2057]
+                        - img "Hort Innovation" [ref=e2060]
+                        - link "LexMod" [ref=e2061] [cursor=pointer]:
+                          - /url: /our-work/lexmod
+                          - img "LexMod" [ref=e2063] [cursor=pointer]
+                    - generic [ref=e2064]:
+                      - button "Go to slide 1" [ref=e2065] [cursor=pointer]
+                      - button "Go to slide 2" [ref=e2066] [cursor=pointer]
+                      - button "Go to slide 3" [ref=e2067] [cursor=pointer]
+                - generic [ref=e2070]:
+                  - generic:
+                    - img "Happy children playing together outside, showing joy and friendship"
+                  - img "ICEF logo with a gold crown above bold blue uppercase letters" [ref=e2072]
+                  - generic [ref=e2073]: Our employees raised over $120,000
+                  - generic [ref=e2074]: To fund cleft palate surgeries for 200 children and build schools and playgrounds
+                  - link "READ MORE ABOUT NICEF" [ref=e2075] [cursor=pointer]:
+                    - /url: /nicef/
+                - generic [ref=e2077]:
+                  - generic [ref=e2078]:
+                    - generic [ref=e2079]: Our offices
+                    - generic [ref=e2080]: Niteco is a global company with offices on four continents. That means we’re always near you, wherever you are.
+                  - generic [ref=e2081]:
+                    - generic [ref=e2082]:
+                      - generic:
+                        - img "USA"
+                      - generic [ref=e2083]:
+                        - img "USA" [ref=e2086]
+                        - generic [ref=e2087]:
+                          - paragraph [ref=e2088]: USA
+                          - paragraph [ref=e2089]: Niteco US
+                          - paragraph [ref=e2090]: 16192 Coastal Highway, Lewes, DE 19958, USA
+                          - paragraph [ref=e2091]:
+                            - link "moc.ocetin@ofni.asu" [ref=e2092] [cursor=pointer]:
+                              - /url: mailto:%75%73%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2093] [cursor=pointer]: moc.ocetin@ofni.asu
+                          - paragraph [ref=e2094]:
+                            - link "+1 917 239 1987" [ref=e2095] [cursor=pointer]:
+                              - /url: tel:+1 917 239 1987
+                    - generic [ref=e2096]:
+                      - generic:
+                        - img "Stockholm"
+                      - generic [ref=e2097]:
+                        - img "Stockholm" [ref=e2100]
+                        - generic [ref=e2101]:
+                          - paragraph [ref=e2102]: Stockholm
+                          - paragraph [ref=e2103]: Niteco AB
+                          - paragraph [ref=e2104]: Hemvärnsgatan 9 171 54, Solna Sweden
+                          - paragraph [ref=e2105]:
+                            - link "es.ocetin@ofni.nedews" [ref=e2106] [cursor=pointer]:
+                              - /url: mailto:%73%77%65%64%65%6E%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%73%65
+                              - generic [ref=e2107] [cursor=pointer]: es.ocetin@ofni.nedews
+                          - paragraph [ref=e2108]:
+                            - link "+46 700 35 58 30" [ref=e2109] [cursor=pointer]:
+                              - /url: tel:+46 700 35 58 30
+                    - generic [ref=e2110]:
+                      - generic:
+                        - img "London"
+                      - generic [ref=e2111]:
+                        - img "London" [ref=e2114]
+                        - generic [ref=e2115]:
+                          - paragraph [ref=e2116]: London
+                          - paragraph [ref=e2117]: Niteco Europe Ltd
+                          - paragraph [ref=e2118]: 124 City Road, London, EC1V 2NX, United Kingdom
+                          - paragraph [ref=e2119]:
+                            - link "ku.oc.ocetin@ofni.ku" [ref=e2120] [cursor=pointer]:
+                              - /url: mailto:%75%6B%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%2E%75%6B
+                              - generic [ref=e2121] [cursor=pointer]: ku.oc.ocetin@ofni.ku
+                          - paragraph [ref=e2122]:
+                            - link "+44 7919 394 559" [ref=e2123] [cursor=pointer]:
+                              - /url: tel:+44 7919 394 559
+                    - generic [ref=e2124]:
+                      - generic:
+                        - img "Sydney"
+                      - generic [ref=e2125]:
+                        - img "Sydney" [ref=e2128]
+                        - generic [ref=e2129]:
+                          - paragraph [ref=e2130]: Sydney
+                          - paragraph [ref=e2131]: Niteco Pty Ltd
+                          - paragraph [ref=e2132]: Suite 2, Level 3, 84 Union St, Pyrmont, NSW 2009
+                          - paragraph [ref=e2133]:
+                            - link "moc.ocetin@ofni.ailartsua" [ref=e2134] [cursor=pointer]:
+                              - /url: mailto:%61%75%73%74%72%61%6C%69%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2135] [cursor=pointer]: moc.ocetin@ofni.ailartsua
+                          - paragraph [ref=e2136]:
+                            - link "+61 405 208 629" [ref=e2137] [cursor=pointer]:
+                              - /url: tel:+61 405 208 629
+                    - generic [ref=e2138]:
+                      - generic:
+                        - img "Hongkong"
+                      - generic [ref=e2139]:
+                        - img "Hongkong" [ref=e2142]
+                        - generic [ref=e2143]:
+                          - paragraph [ref=e2144]: Hongkong
+                          - paragraph [ref=e2145]: Niteco Group Ltd
+                          - paragraph [ref=e2146]: 31/F Tower Two, Times Square, 1 Matheson St, Causeway Bay
+                          - paragraph [ref=e2147]:
+                            - link "moc.ocetin@ofni.kh" [ref=e2148] [cursor=pointer]:
+                              - /url: mailto:%68%6B%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2149] [cursor=pointer]: moc.ocetin@ofni.kh
+                          - paragraph [ref=e2150]:
+                            - link "+852 5808 0458" [ref=e2151] [cursor=pointer]:
+                              - /url: tel:+852 5808 0458
+                    - generic [ref=e2152]:
+                      - generic:
+                        - img "Hanoi"
+                      - generic [ref=e2153]:
+                        - img "Hanoi" [ref=e2156]
+                        - generic [ref=e2157]:
+                          - paragraph [ref=e2158]: Hanoi
+                          - paragraph [ref=e2159]: Niteco Vietnam Company Ltd
+                          - paragraph [ref=e2160]: C'Land Tower, 14th Floor, 156 Xa Dan II St, Dong Da Dist., Hanoi, Vietnam
+                          - paragraph [ref=e2161]:
+                            - link "moc.ocetin@ofni" [ref=e2162] [cursor=pointer]:
+                              - /url: mailto:%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2163] [cursor=pointer]: moc.ocetin@ofni
+                          - paragraph [ref=e2164]:
+                            - link "+84 24 3573 9623" [ref=e2165] [cursor=pointer]:
+                              - /url: tel:+84 24 3573 9623
+                    - generic [ref=e2166]:
+                      - generic:
+                        - img "Ho Chi Minh"
+                      - generic [ref=e2167]:
+                        - img "Ho Chi Minh" [ref=e2170]
+                        - generic [ref=e2171]:
+                          - paragraph [ref=e2172]: Ho Chi Minh
+                          - paragraph [ref=e2173]: Niteco Vietnam Company Ltd
+                          - paragraph [ref=e2174]: E.Town Bldg. 1, 2nd Floor, 364 Cong Hoa St, Tan Binh Dist., Ho Chi Minh City, Vietnam
+                          - paragraph [ref=e2175]:
+                            - link "moc.ocetin@ofni" [ref=e2176] [cursor=pointer]:
+                              - /url: mailto:%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2177] [cursor=pointer]: moc.ocetin@ofni
+                          - paragraph [ref=e2178]:
+                            - link "+84 28 6297 1215" [ref=e2179] [cursor=pointer]:
+                              - /url: tel:+84 28 6297 1215
+                    - generic [ref=e2180]:
+                      - generic:
+                        - img "Singapore"
+                      - generic [ref=e2181]:
+                        - img "Singapore" [ref=e2184]
+                        - generic [ref=e2185]:
+                          - paragraph [ref=e2186]: Singapore
+                          - paragraph [ref=e2187]: Niteco Group Ltd
+                          - paragraph [ref=e2188]: No 7 Temasek Boulevard#12-07 Suntec Tower One PMB1080 Singapore, 038987
+                          - paragraph [ref=e2189]:
+                            - link "moc.ocetin@ofni.gs" [ref=e2190] [cursor=pointer]:
+                              - /url: mailto:%73%67%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                              - generic [ref=e2191] [cursor=pointer]: moc.ocetin@ofni.gs
+                - generic [ref=e2193]:
+                  - generic [ref=e2194]:
+                    - generic [ref=e2195]:
+                      - text: Find out
+                      - text: how we can help you.
+                    - link "Contact Us" [ref=e2196] [cursor=pointer]:
+                      - /url: /contact-us/
+                  - img "Find out <br/>how we can help you." [ref=e2200]
+    - contentinfo [ref=e2202]:
+      - generic [ref=e2203]:
+        - generic "Niteco" [ref=e2205]:
+          - img "Niteco"
+        - generic [ref=e2206]:
+          - generic [ref=e2207]:
+            - list [ref=e2208]:
+              - listitem [ref=e2209]:
+                - paragraph [ref=e2210]:
+                  - generic [ref=e2211]: Address
+                  - text: ": 16192 Coastal Highway, Lewes, DE 19958, USA"
+            - list [ref=e2212]:
+              - listitem [ref=e2213]:
+                - paragraph [ref=e2214]:
+                  - generic [ref=e2215]: Phone
+                  - text: ":"
+                  - link "+1 917 239 1987" [ref=e2216] [cursor=pointer]:
+                    - /url: tel:+1 917 239 1987
+              - listitem [ref=e2217]:
+                - paragraph [ref=e2218]:
+                  - generic [ref=e2219]: Email
+                  - text: ":"
+                  - link "moc.ocetin@ofni.asu" [ref=e2220] [cursor=pointer]:
+                    - /url: mailto:%75%73%61%2E%69%6E%66%6F%40%6E%69%74%65%63%6F%2E%63%6F%6D
+                    - generic [ref=e2221] [cursor=pointer]: moc.ocetin@ofni.asu
+            - link "View our offices" [ref=e2223] [cursor=pointer]:
+              - /url: " /contact-us/#0c4ea610-0dee-4ee6-b67c-88cd882f2095"
+              - text: View our offices +
+          - generic [ref=e2225]:
+            - list [ref=e2227]:
+              - listitem [ref=e2228]:
+                - link "Work" [ref=e2229] [cursor=pointer]:
+                  - /url: /our-work/
+              - listitem [ref=e2230]:
+                - link "Services" [ref=e2231] [cursor=pointer]:
+                  - /url: /our-services/
+              - listitem [ref=e2232]:
+                - link "Technology" [ref=e2233] [cursor=pointer]:
+                  - /url: /our-partners/optimizely/
+              - listitem [ref=e2234]:
+                - link "Articles" [ref=e2235] [cursor=pointer]:
+                  - /url: /articles/
+            - list [ref=e2237]:
+              - listitem [ref=e2238]:
+                - link "Careers" [ref=e2239] [cursor=pointer]:
+                  - /url: /careers/
+              - listitem [ref=e2240]:
+                - link "About Us" [ref=e2241] [cursor=pointer]:
+                  - /url: /about-us/
+              - listitem [ref=e2242]:
+                - link "Contact Us" [ref=e2243] [cursor=pointer]:
+                  - /url: /contact-us/
+              - listitem [ref=e2244]:
+                - link "NICEF" [ref=e2245] [cursor=pointer]:
+                  - /url: /nicef/
+          - generic [ref=e2246]:
+            - generic [ref=e2247]: Subscribe to our newsletter
+            - generic [ref=e2249]:
+              - textbox "Email" [ref=e2250]
+              - generic [ref=e2251] [cursor=pointer]: Subscribe
+            - list [ref=e2253]:
+              - listitem [ref=e2254]:
+                - link "Go to our Facebook" [ref=e2255] [cursor=pointer]:
+                  - /url: https://facebook.com/Niteco
+                  - img [ref=e2256] [cursor=pointer]
+              - listitem
+              - listitem [ref=e2258]:
+                - link "Go to our Youtube" [ref=e2259] [cursor=pointer]:
+                  - /url: https://youtube.com/user/nitecocompany
+                  - img [ref=e2260] [cursor=pointer]
+              - listitem [ref=e2262]:
+                - link "Go to our LinkedIn" [ref=e2263] [cursor=pointer]:
+                  - /url: https://linkedin.com/company/niteco
+                  - img [ref=e2264] [cursor=pointer]
+              - listitem
+              - listitem [ref=e2266]:
+                - link "Get RSS Feed" [ref=e2267] [cursor=pointer]:
+                  - /url: /syndication/?rootId=4229
+                  - img [ref=e2268] [cursor=pointer]
+        - generic [ref=e2270]:
+          - generic [ref=e2272]:
+            - link "Terms & Conditions" [ref=e2274] [cursor=pointer]:
+              - /url: /terms-conditions/
+            - generic [ref=e2275]: "|"
+            - link "Privacy Policy" [ref=e2277] [cursor=pointer]:
+              - /url: /privacy-policy/
+          - generic [ref=e2278]: Copyright © 2025 Niteco All rights reserved
+```
