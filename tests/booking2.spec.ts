@@ -1,8 +1,8 @@
 import { test, expect } from '@playwright/test';
-import {Destination,Reserve,Purchase,Confirmation} from '../pageObjects/bookingPage.json';
-import { CheckoutDestination } from './main-flow';
+import {Destination,Reserve,Purchase,Confirmation} from '../locators/bookingFlight.json';
+import { CheckoutDestination } from '../pages/bookingFlight';
   
-const {BookingPage} = require ('../pageObjects/bookingPage.json');
+const {BookingPage} = require ('../locators/bookingFlight.json');
 
 // test.describe("Find the flight by selecting city and country",  () => {
 //   test.beforeEach(async ({page}) => {

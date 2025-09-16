@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
-import {Destination, Reserve,Purchase,Confirmation} from '../pageObjects/bookingPage.json';
-import { CheckoutDestination } from './main-flow';
+import {Destination, Reserve,Purchase,Confirmation} from '../locators/bookingFlight.json';
+import { CheckoutDestination } from '../pages/bookingFlight';
 
 
 test ('Scenario1: Select City and Destination', async ({ page }) => {
