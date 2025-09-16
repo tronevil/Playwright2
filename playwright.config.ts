@@ -20,26 +20,26 @@ export default defineConfig({
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : undefined,
+  workers: process.env.CI ? 1 : 2,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
  // reporter: 'html',
  reporter: [["line"], [
       "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
       {
-        slackWebHookUrl :"https://hooks.slack.com/services/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",
+        slackWebHookUrl :"https://hooks.slack.com/services/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",
         channels: ["Tron app"], // provide one or more Slack channels
         sendResults: "always", // "always" , "on-failure", "off"
         meta:[
           {
-            key:"Environment:",
+            key:"Environment",
             value:"Local",
           },
           {
-            key: 'Branch: ',
+            key: 'Branch ',
             value: 'main',
           },
           {
-            key: 'Commit: ',
+            key: 'Commit ',
             value: '0ed1579a-3973-44ec-bef6-89092e507fff',
           }
         ]        
@@ -67,7 +67,7 @@ export default defineConfig({
          },
        } 
 ]],
-  timeout: 40_000,
+  timeout: 20_000,
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('/')`. */
