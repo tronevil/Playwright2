@@ -26,8 +26,8 @@ export default defineConfig({
  reporter: [["line"], [
       "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
       {
-        slackWebHookUrl :"https://hooks.slack.com/services/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",
-        channels: ["social"], // provide one or more Slack channels
+        slackWebHookUrl :"https://hooks.slack.com/services/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",
+        channels: ["Tron app"], // provide one or more Slack channels
         sendResults: "always", // "always" , "on-failure", "off"
         meta:[
           {
