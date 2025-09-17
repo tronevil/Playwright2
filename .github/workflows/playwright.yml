@@ -29,8 +29,7 @@ jobs:
       run: npx playwright install --with-deps
 
     - name: Run Playwright tests
-      run: npx playwright test bookingFlight.spec.ts ecommmerce.spec.ts 
-
+      run: npx playwright test .\tests\bookFlight.spec.ts .\tests\ecommerce.spec.ts 
     - name: Generate Allure report
       run: allure generate --single-file .\allure-results --clean
 
