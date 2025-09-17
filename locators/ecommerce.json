@@ -1,0 +1,15 @@
+{
+    "HomePage":
+    {
+        "newArrival_btn": "//h2[normalize-space()='new arrivals']"
+      
+    },
+    "ShopPage":
+    {
+        "shop_menu": "li[id='menu-item-40'] a",
+        "sku1":"//h3[normalize-space()='Android Quick Start Guide']"
+
+
+    }
+
+}
