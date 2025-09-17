@@ -2,7 +2,7 @@ import {test, expect} from '@playwright/test';
 import {HomePage, ShopPage} from '../locators/ecommerce.json';
 import {ECommerceWebsite} from '../pages/ecommerce';
 
-
+test.describe('Story2: E-Commerce Website Testing', () => {
 test('Scenario1: Verify Home Page', async ({ page }) => {
     await page.goto('https://practice.automationtesting.in/');
     //Verify RESULT
@@ -16,4 +16,5 @@ test('Scenario2: Verify Product Detail', async ({ page }) => {
     await MyEcommerce.verifyShopPage();
     //Verify RESULT
     await expect(page.locator(ShopPage.sku1)).toContainText('Android Quick Start Guide');
+})
 })

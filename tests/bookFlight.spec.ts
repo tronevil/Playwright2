@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import {Destination, Reserve,Purchase,Confirmation} from '../locators/bookingFlight.json';
 import { CheckoutDestination } from '../pages/bookingFlight';
 
-
+test.describe('Story1: User book a flight', () => {
 test ('Scenario1: Select City and Destination', async ({ page }) => {
     await page.goto('/index.php');
     //select Destination and City
@@ -40,4 +40,5 @@ test ('Scenario4: Verify Confirmation page', async ({page}) =>{
     //CHECK RESULT
     await expect(page.locator(Confirmation.thankYou_text)).toContainText('Thank you for your purchase today!');
 
+})
 })
