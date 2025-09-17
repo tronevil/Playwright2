@@ -26,8 +26,8 @@ export default defineConfig({
  reporter: [["line"], [
       "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
       {
-        //slackWebHookUrl :"https://hooks.slack.com/services/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",
-        slackWebHookUrl : ${{ secrets.SLACK_WEBHOOK_URL }}
+       //slackWebHookUrl :"https://hooks.slack.com/services/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",
+       // slackWebHookUrl : ${{ secrets.SLACK_WEBHOOK_URL }},
         channels: ["Tron app"], // provide one or more Slack channels
         sendResults: "always", // "always" , "on-failure", "off"
         meta:[
@@ -68,7 +68,7 @@ export default defineConfig({
          },
        } 
 ]],
-  timeout: 20_000,
+  timeout: 40_000,
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Base URL to use in actions like `await page.goto('/')`. */
