@@ -1,7 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","699","Scenario1: Select City and Destination","chromium","Mon May 12 06:58:14 GMT 2025","passed","Mon May 12 06:58:15 GMT 2025","Find the flight by selecting city and country","booking.spec.ts","",""
-"","984","Scenario4: Verify Confirmation page","chromium","Mon May 12 06:58:17 GMT 2025","passed","Mon May 12 06:58:18 GMT 2025","Find the flight by selecting city and country","booking.spec.ts","",""
-"","767","Scenario2:Choose The flight and verify detail data is correct","chromium","Mon May 12 06:58:15 GMT 2025","passed","Mon May 12 06:58:16 GMT 2025","Find the flight by selecting city and country","booking.spec.ts","",""
-"","418","get started link","chromium","Mon May 12 06:58:18 GMT 2025","passed","Mon May 12 06:58:18 GMT 2025","","example.spec.ts","",""
-"","289","has title","chromium","Mon May 12 06:58:18 GMT 2025","passed","Mon May 12 06:58:18 GMT 2025","","example.spec.ts","",""
-"","956","Scenario3: Input personal information for booking","chromium","Mon May 12 06:58:16 GMT 2025","passed","Mon May 12 06:58:17 GMT 2025","Find the flight by selecting city and country","booking.spec.ts","",""
